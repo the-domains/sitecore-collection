@@ -4,8 +4,15 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:53:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Select a Sitecore Partner]]></title>
+            <description><![CDATA[<article><h1>How to Select a Sitecore Partner</h1><p>So you've decided to go with Sitecore as your website's CMS/platform. Unless you have the development chops in-house, you're going to need a certified Sitecore partner. Even companies with strong .NET developers on staff will need outside support for a Sitecore implementation.</p></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2015/02/12/tips-on-how-to-select-a-sitecore-partner/</link>
+            <guid isPermaLink="false">14497586-6074-41df-834c-68a3de46d5fa</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sitecore 7 - An Insider's Look into New Features and Functionality]]></title>
             <description><![CDATA[<article><h1>Sitecore 7 - An Insider's Look into New Features and Functionality</h1><p>From the moment Sitecore 6 was released in 2008, developers and others in the Sitecore community have been hearing the distant rumors of Sitecore 7.</p><img src="http://www.velir.com/blog/wp-content/uploads/2013/04/sitecorequickactions.gif"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Connecting Online and Offline Behaviors with the Sitecore Experience Platform</h1><p>As a digital agency, we've helped many of our clients overcome their digital marketing challenges with the help of the Sitecore Experience Platform. This is the first in a series of posts that explores real world examples of these solutions.</p><img src="http://www.velir.com/blog/wp-content/uploads/2014/04/Blog_Header_Image_dataviz-e1397690869746.png"></article>]]></description>
             <link>http://www.velir.com/blog/index.php/2015/03/24/connecting-online-and-offline-behaviors/</link>
             <guid isPermaLink="false">644b16f3-74dc-47b0-baaf-be06a14a5fe0</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's redesigned Play store starts rolling out]]></title>
-            <description><![CDATA[<article><h1>Google's redesigned Play store starts rolling out</h1><p>After being teased last week by Google engineer Kirill Grouchnikov, the redesigned Play store has apparently started showing up on some Android devices. Android Central says the new mobile shop for apps, books, music, movies and more, which features a simplified tab-based interface, hit one of its smartphones last night.</p><img src="http://o.aolcdn.com/hss/storage/midas/4e4ac563f3c83648974b7fa3bf139451/202815378/googleplay.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2015/10/22/google-play-store-redesign-rolling-out/</link>
-            <guid isPermaLink="false">a5133a47-75bc-4b75-a673-0184f6375959</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
         </item>
     </channel>

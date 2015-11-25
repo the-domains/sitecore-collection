@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sitecore Collection]]></title>
+        <description><![CDATA[Sitecore Collection]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 Nov 2015 19:50:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Storing Tabular Lookup Data in Sitecore | Mike Skutta | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Storing Tabular Lookup Data in Sitecore | Mike Skutta | Sitecore Blog</h1><p>In some cases, there may be a need to store tabular data in Sitecore. For example, you may need to store pricing information for a product based on quantity. In this example, we could have a price per pound based on the total number of pounds.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Technical%20Blogs/Blogger%20Pics/MikeSkutta_108px.ashx?ts=032715104717867&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/mike-skutta/posts/2015/04/storing-tabular-lookup-data-in-sitecore.aspx</link>
+            <guid isPermaLink="false">09596012-2d04-491d-8fe3-9ee9efa3a5bc</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -4,8 +4,15 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:55:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sitecore Standard Template Tasks Section | Sitecore]]></title>
+            <description><![CDATA[<article><h1>Sitecore Standard Template Tasks Section | Sitecore</h1><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/sitecore-standard-template-tasks-section.aspx</link>
+            <guid isPermaLink="false">fa9618cc-4ddc-4ac3-aa2e-b60f23484205</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Select a Sitecore Partner]]></title>
             <description><![CDATA[<article><h1>How to Select a Sitecore Partner</h1><p>So you've decided to go with Sitecore as your website's CMS/platform. Unless you have the development chops in-house, you're going to need a certified Sitecore partner. Even companies with strong .NET developers on staff will need outside support for a Sitecore implementation.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Coveo and Sitecore 7: What's New and Improved</h1><img src="http://www.velir.com/blog/wp-content/uploads/2013/11/Coveo-Configuration-Panel.png"></article>]]></description>
             <link>http://www.velir.com/blog/index.php/2013/12/12/coveo-and-sitecore-7-whats-new-and-improved/</link>
             <guid isPermaLink="false">3153a3b2-1d02-4609-8b94-364fac1c36fc</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Create a Custom Publish Queue in Sitecore]]></title>
-            <description><![CDATA[<article><h1>How to Create a Custom Publish Queue in Sitecore</h1><p>Welcome to the first entry in our new series: Specific Solutions for Uncommon Problems. The goal of this series is to present real-world issues that came up during web design and development projects and demonstrate our solutions to them, without attempting to generalize for a larger audience.</p><img src="http://0.gravatar.com/avatar/06e96f1b4bb17bda7223c3f0e94ac496?s=38&d=mm&r=g"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2013/11/22/how-to-create-a-custom-publish-queue-in-sitecore/</link>
-            <guid isPermaLink="false">bf26973d-a6fc-4f0c-bd6d-707aa16681fb</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
         </item>
     </channel>

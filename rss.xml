@@ -4,8 +4,15 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:59:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[xDB: Sitecore DMS Moves to MongoDB]]></title>
+            <description><![CDATA[<article><h1>xDB: Sitecore DMS Moves to MongoDB</h1><p>When Sitecore feels that they have moved the ball significantly, they tend to mark the occasion with a name change or two. So when batched writes came to the Online Marketing System (OMS), it became the Digital Marketing Suite (DMS), and when personalization was fully integrated into the Page Editor, it became, officially at least, the Experience Editor, and the CMS + DMS combination became the Customer Experience Platform.</p><img src="http://www.velir.com/blog/wp-content/uploads/2014/06/Json-Document.png"></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2014/06/03/xdb-sitecore-dms-moves-to-mongodb/</link>
+            <guid isPermaLink="false">59014c0d-f59f-491b-8086-19d9f40c0a80</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Customers Don't Buy Products, They Buy Outcomes]]></title>
             <description><![CDATA[<article><h1>Customers Don't Buy Products, They Buy Outcomes</h1><p>By Darren Guarnaccia, November 20, 2015 | | Customer experience is a series of interactions that bring someone to the outcome they want. Product doesn't always take center stage. I've said it in front of audiences worldwide, and heads start nodding immediately in agreement: "Customers don't buy products, they buy outcomes."</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Company/Who%20We%20Are/Corporate/Darren%20Guarnaccia.ashx?ts=020812101557970&h=108&la=en&w=108"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Sitecore Standard Template Security | Sitecore</h1><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
             <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/sitecore-standard-template-security.aspx</link>
             <guid isPermaLink="false">b108ae8c-44ef-4fde-9e5f-b53f6541f509</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore Requirements and Recommendations for Mongo in Content Delivery | John West | Sitecore Blog]]></title>
-            <description><![CDATA[<article><h1>Sitecore Requirements and Recommendations for Mongo in Content Delivery | John West | Sitecore Blog</h1><p>By John West, November 25, 2014 | | This blog post contains requirements and recommendations for configuring Mongo for the xDB (Experience Database) in the content delivery environment and for managing session data in the content management and content delivery environments.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2014/11/sitecore-requirements-and-recommendations-for-mongo-in-content-delivery.aspx</link>
-            <guid isPermaLink="false">42ab73d2-2908-4fb7-8b2a-9260e59cfcd3</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
         </item>
     </channel>

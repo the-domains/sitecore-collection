@@ -4,8 +4,15 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:51:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Sitecore (@Sitecore). Sitecore empowers marketers to deliver content in context of how customers have engaged with their brand, across every channel, in real time</p>]]></description>
+            <link>https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiW5cLc7KvJAhUKOD4KHez6AoUQ6F4IMTAC&amp;url=https%3A%2F%2Ftwitter.com%2FSitecore%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&amp;usg=AFQjCNFvVUoLgyAJyHC64z5U-pTqSSBelQ&amp;sig2=h9ehhYNt0UCXyU8wK_LkxA</link>
+            <guid isPermaLink="false">fc6260f2-1bdd-4af5-9f10-94f51d23bf18</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sitecore Multisite, Part 5: Workflows | John West | Sitecore Blog]]></title>
             <description><![CDATA[<article><h1>Sitecore Multisite, Part 5: Workflows | John West | Sitecore Blog</h1><p>This (short) blog post contains information about publishing workflow in solutions that manage multiple logical sites in a single instance of the Sitecore ASP.NET web Content Management System (CMS) and Customer Engagement Platform (CEP). The topics covered in this blog post are not specific to solutions that maintain multiple logical sites, but often become apparent in that context.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>

@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.velir.com/blog/index.php/2014/01/06/sitecore-dms-engagement-value-part-1/'
 title: Sitecore DMS Engagement Value - Part 1
-datePublished: '2015-11-25T19:50:11.225Z'
-dateModified: '2015-11-25T14:14:29.798Z'
+datePublished: '2015-11-25T19:50:16.048Z'
+dateModified: '2015-11-25T14:14:29.807Z'
 sourcePath: _posts/2015-11-25-sitecore-dms-engagement-value-part-1.md
 published: true
 inFeed: true

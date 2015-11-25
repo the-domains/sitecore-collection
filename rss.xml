@@ -4,13 +4,27 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 20:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 20:03:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
             <description><![CDATA[<article><h1>Sitecore Shifts Focus in 8.1 Release</h1><p>Sitecore just released version 8.1 of its Experience Platform. But this update to its flagship product is not, to coin a phrase, your father's dot release. New features suggest Sitecore is significantly shifting its approach to the market. For example: The Experience Platform is entirely context-focused now.</p><img src="http://www.cmswire.com/~/media/b14513a9e4d146d191d0b0d3ff7c7adb.jpeg"></article>]]></description>
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sitecore DMS Engagement Value - Part 1]]></title>
+            <description><![CDATA[<article><h1>Sitecore DMS Engagement Value - Part 1</h1><p>When Sitecore introduced the concept of Engagement Value they created a valuable metric, especially for organizations that don't collect revenue online. Determining where Engagement Value fits in the broader ecosystem of web and organizational metrics is a challenge for companies and their Sitecore implementation partners.</p><img src="http://www.velir.com/blog/wp-content/uploads/2014/01/decayed-engagement-value-960x380.jpg"></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2014/01/06/sitecore-dms-engagement-value-part-1/</link>
+            <guid isPermaLink="false">77a4a0a3-b28e-4d73-af67-ec5e7f31df3b</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Going Viral Without Crashing: Preparing Your Website for Heavy Traffic]]></title>
+            <description><![CDATA[<article><h1>Going Viral Without Crashing: Preparing Your Website for Heavy Traffic</h1><p>What do the Eiffel Tower, Best Buy, and XeroShoes have in common? They can all tell you how the opportunity of a viral event can go to waste if you aren't ready for it. The Eiffel Tower's website crashed on March 31 when Google's doodle drove too much traffic to it.</p></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2015/04/27/going-viral-without-going-down-preparing-your-website-for-heavy-traffic/</link>
+            <guid isPermaLink="false">266453fe-1093-4b85-97b8-9874732ce514</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
         </item>
         <item>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>​Twitter CEO and founder gives a third of his stock to employees</h1><p>"I'd rather have a smaller part of something big than a bigger part of something small." That's how Twitter CEO Jack Dorsey tweeted about his decision to channel a huge chunk of his own stake in the social network back to the employee stock compensation pool.</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/4100x2706+0+0/resize/1200x792!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/d3897454abb3c4cb0ddeaa495bb871dd/201722924/459305148.jpg"></article>]]></description>
             <link>http://www.engadget.com/2015/10/23/twitter-ceo-and-founder-gives-a-third-of-his-stock-to-employees/</link>
             <guid isPermaLink="false">0cc91fdd-dc99-451c-af4e-0961d25dc736</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Custom Bucket Path Actions with the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
-            <description><![CDATA[<article><h1>Custom Bucket Path Actions with the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, December 14, 2014 | | This blog post explains how you can implement custom actions to determine paths created in or moved to buckets in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Technical%20Blogs/West%20blog/2014/12/MetadataPathRules.ashx?ts=121414073441779"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2014/12/custom-bucket-path-actions-with-the-sitecore-aspnet-cms.aspx</link>
-            <guid isPermaLink="false">5b95ed18-0ba6-408c-bb11-1a9016f9b361</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[xDB: Sitecore DMS Moves to MongoDB]]></title>
-            <description><![CDATA[<article><h1>xDB: Sitecore DMS Moves to MongoDB</h1><p>When Sitecore feels that they have moved the ball significantly, they tend to mark the occasion with a name change or two. So when batched writes came to the Online Marketing System (OMS), it became the Digital Marketing Suite (DMS), and when personalization was fully integrated into the Page Editor, it became, officially at least, the Experience Editor, and the CMS + DMS combination became the Customer Experience Platform.</p><img src="http://www.velir.com/blog/wp-content/uploads/2014/06/Json-Document.png"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2014/06/03/xdb-sitecore-dms-moves-to-mongodb/</link>
-            <guid isPermaLink="false">59014c0d-f59f-491b-8086-19d9f40c0a80</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
         </item>
     </channel>

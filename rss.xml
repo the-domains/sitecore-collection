@@ -4,7 +4,7 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 20:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 20:10:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
@@ -12,6 +12,34 @@
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Dyson's pricey robot vacuum is late for its Japanese debut]]></title>
+            <description><![CDATA[<article><h1>Why Dyson's pricey robot vacuum is late for its Japanese debut</h1><p>We warned that Dyson's first robot vacuum was going to put all that cyclone technology to use on your wallet's contents and we weren't wrong. After a hefty half-year delay, the 360 Eye robot vacuum goes on sale in Japan today priced at 138,000 yen -- before tax! That's around $1,150.</p><img src="http://o.aolcdn.com/hss/storage/midas/ea0a431032d88791972d48851efceb38/202850026/360.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2015/10/23/dyson-360-eye-price-delay/</link>
+            <guid isPermaLink="false">73c3bd68-5e12-4e16-acee-126187c1eb54</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evaluating BrainJocks SCORE for the Sitecore ASP.NET CMS: Snippets | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Evaluating BrainJocks SCORE for the Sitecore ASP.NET CMS: Snippets | John West | Sitecore Blog</h1><p>This blog post, specifically about the snippets feature, is one in a series of blog posts describing my evaluation of BrainJocks SCORE for the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP). You can think of a SCORE as an accelerator for the implementation of Sitecore solutions.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/03/evaluating-brainjocks-score-for-the-sitecore-aspnet-cms-snippets.aspx</link>
+            <guid isPermaLink="false">c8515a1c-3624-4b33-a7dc-ab98c254352a</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sitecore Standard Template Workflow Section | Sitecore]]></title>
+            <description><![CDATA[<article><h1>Sitecore Standard Template Workflow Section | Sitecore</h1><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/sitecore-standard-template-workflow-section.aspx</link>
+            <guid isPermaLink="false">dd950cff-9538-4342-857a-8e3c310ed65c</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DataEverywhere | Sitecore]]></title>
+            <description><![CDATA[<article><h1>DataEverywhere | Sitecore</h1><p>By Charlotte Ziems, October 22, 2015 | | Right this second, at many businesses, a ton of customer data is sitting stagnant and powerless in siloed databases. Sales contact data in CRM systems, customer support data in ticketing system databases.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Business%20Blogs/Charlotte%20Ziems.ashx?ts=102115095736000&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/business-blogs/charlotte-ziems/posts/2015/10/dataeverywhere.aspx</link>
+            <guid isPermaLink="false">c8bce382-fbac-4cd9-86a4-a0670dae7471</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FCC will publish telemarketer phone numbers to help you block them]]></title>
@@ -47,34 +75,6 @@
             <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/data-source-items-vs-rendering-parameters-in-the-sitecore-aspnet-cms.aspx</link>
             <guid isPermaLink="false">57ddf787-33aa-4514-be3e-f61b60ba9786</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore Multisite, Part 3: CMS Cookies and Hostnames | John West | Sitecore Blog]]></title>
-            <description><![CDATA[<article><h1>Sitecore Multisite, Part 3: CMS Cookies and Hostnames | John West | Sitecore Blog</h1><p>This blog post explains some issues that you may face due to the association of cookies with hostnames in the Sitecore ASP.NET web Content Management System (CMS) and Customer Engagement Platform (CEP). The issues described in this blog post are not completely specific to Sitecore (any solution using multiple hostnames would face these conditions).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2013/10/sitecore-multisite-part-3-cms-cookies-and-hostnames.aspx</link>
-            <guid isPermaLink="false">756d02dd-c0e0-4ae0-9777-9bd5a56318bf</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Templating Rich Text Content in Sitecore using Razor]]></title>
-            <description><![CDATA[<article><h1>Templating Rich Text Content in Sitecore using Razor</h1><p>Contact us forms are common on the sites I work on. Many times, the end result of a user filling out a contact us form is sending a confirmation e-mail to that user. The confirmation e-mail generally includes information that the user filled out on the contact us form.</p><img src="http://www.sitecore.net/~/media/OPS/2015/USA%203/Mike%20Skutta%20img%20blog%20post%20June"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/mike-skutta/posts/2015/06/templating-rich-text-content-in-sitecore-using-razor.aspx</link>
-            <guid isPermaLink="false">307cd1b6-a74f-4b55-829e-aaa1a8c1d62b</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Sitecore Field Suite's General Links Field]]></title>
-            <description><![CDATA[<article><h1>The Sitecore Field Suite's General Links Field</h1><p>Field Suite I built the Sitecore Field Suite module a few months back to provide Sitecore users a more streamlined and informational approach to content authoring. The new Field Suite Module creates a new authoring experience with tooltips to view an item's path, in-line editing of referenced items, and visual indicators to let content authors know if their item and its referenced items are published.</p><img src="http://1.gravatar.com/avatar/d1fa8d1a5c5a6007dcf01680bddcd937?s=38&d=mm&r=g"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2013/01/15/field-suites-general-links-field/</link>
-            <guid isPermaLink="false">6487cf50-20fe-455a-8186-e3aaff96dc1e</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Android Marshmallow requires devices to show all battery stats]]></title>
-            <description><![CDATA[<article><h1>Android Marshmallow requires devices to show all battery stats</h1><p>On top of the big changes coming with Android Marshmallow, Google is also forcing Android device makers to be more transparent about battery usage on all of their devices. Specifically, Google notes that devices "MUST be able to track hardware component power usage," as well as attribute usage to individual apps, according to the Marshmallow Compatibility Definition Document.</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x791+0+30/resize/1200x792!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/176ac960a2f46d6322530c5dd34d0f78/202849027/marshmallow-fb.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2015/10/23/android-marshmallow-battery/</link>
-            <guid isPermaLink="false">d4972a50-df89-4f7f-9ac1-72bfe76c0a8e</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

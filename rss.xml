@@ -4,8 +4,29 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:56:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:57:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sitecore Multisite, Part 2: Authentication | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Sitecore Multisite, Part 2: Authentication | John West | Sitecore Blog</h1><p>This blog post contains information about using different technologies and authenticating different populations of users against separate sites managed by the Sitecore ASP.NET web Content Management System (CMS) and Customer Engagement Platform (CEP). This multisite challenge is not specific to Sitecore, but Sitecore provides some solutions.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/Community/Technical-Blogs/John-West-Sitecore-Blog/Posts/2013/10/Sitecore-Multisite-Part-2-Authentication.aspx</link>
+            <guid isPermaLink="false">d4f960fa-82b7-4a61-92ca-80338e8a1523</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nexus 6P Review: Google And Huawei Have Made Magic]]></title>
+            <description><![CDATA[<article><h1>Nexus 6P Review: Google And Huawei Have Made Magic</h1><p>A week ago, we took an early look at the Nexus 6P, the larger and more "premium" of Google's phones for 2015. Now that I've lived with the 6P for a bit longer, it's time for the full review. As stated in the preview post, the 6P is undoubtedly the more premium of the two new Nexuses.</p><img src="http://www.androidpolice.com/wp-content/uploads/2015/10/nexus2cee_DSC6897-728x485.jpg"></article>]]></description>
+            <link>http://www.androidpolice.com/2015/10/26/nexus-6p-review/</link>
+            <guid isPermaLink="false">5035c337-52ff-40ac-92d1-2b032326f8b8</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sitecore Standard Template Security | Sitecore]]></title>
+            <description><![CDATA[<article><h1>Sitecore Standard Template Security | Sitecore</h1><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/sitecore-standard-template-security.aspx</link>
+            <guid isPermaLink="false">b108ae8c-44ef-4fde-9e5f-b53f6541f509</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sitecore Requirements and Recommendations for Mongo in Content Delivery | John West | Sitecore Blog]]></title>
             <description><![CDATA[<article><h1>Sitecore Requirements and Recommendations for Mongo in Content Delivery | John West | Sitecore Blog</h1><p>By John West, November 25, 2014 | | This blog post contains requirements and recommendations for configuring Mongo for the xDB (Experience Database) in the content delivery environment and for managing session data in the content management and content delivery environments.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Dynamic Item Paths in the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, December 14, 2014 | | This blog posts describes a generic approach to creating paths and moving items based on metadata and other characteristics in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
             <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2014/12/dynamic-item-paths-in-the-sitecore-aspnet-cms.aspx</link>
             <guid isPermaLink="false">df2eb037-82f5-44cf-8451-aec1f04b63c2</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FCC caps 'excessive and egregious' prison telephone rates]]></title>
-            <description><![CDATA[<article><h1>FCC caps 'excessive and egregious' prison telephone rates</h1><p>Who are the criminals in this story? The FCC has acted to reduce what it calls "excessive rates and egregious fees" of up to $14 per minute charged by federal and state prisons. The commission notes that while contact between inmates and families reduces recidivism, "high inmate calling rates have made that contact unaffordable for many families, who often live in poverty."</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/4928x2896+0+0/resize/1200x705!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/3e190ce2d2a217a494939d1b1e5b9c36/202850101/464530790.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2015/10/23/fcc-caps-prison-telephone-rates/</link>
-            <guid isPermaLink="false">41839c50-97c6-4ed6-ad15-ac83cdc4cf38</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Select a Sitecore Partner]]></title>
-            <description><![CDATA[<article><h1>How to Select a Sitecore Partner</h1><p>So you've decided to go with Sitecore as your website's CMS/platform. Unless you have the development chops in-house, you're going to need a certified Sitecore partner. Even companies with strong .NET developers on staff will need outside support for a Sitecore implementation.</p></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2015/02/12/tips-on-how-to-select-a-sitecore-partner/</link>
-            <guid isPermaLink="false">14497586-6074-41df-834c-68a3de46d5fa</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore 7 - An Insider's Look into New Features and Functionality]]></title>
-            <description><![CDATA[<article><h1>Sitecore 7 - An Insider's Look into New Features and Functionality</h1><p>From the moment Sitecore 6 was released in 2008, developers and others in the Sitecore community have been hearing the distant rumors of Sitecore 7.</p><img src="http://www.velir.com/blog/wp-content/uploads/2013/04/sitecorequickactions.gif"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2013/04/11/sitecore-7-an-insiders-look-into-new-features-and-functionality/</link>
-            <guid isPermaLink="false">e0a278af-a939-4985-8ece-d85e462d6499</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
         </item>
     </channel>

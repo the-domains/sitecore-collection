@@ -4,8 +4,15 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:58:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The problem with 'pumpkin spice' security bugs]]></title>
+            <description><![CDATA[<article><h1>The problem with 'pumpkin spice' security bugs</h1><p>Bad Password is a hacking and security column by Violet Blue. Every week she'll be exploring the trendy new cyberhysteria, the state of the infosec community and the ever-eroding thing that used to be called "privacy." Bad Password cuts through the greed, fear mongering and jargon with expertise, a friendly voice and a little level-headed perspective.</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/2100x1325+0+0/resize/1200x757!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/d57ce6b59162dc7262fa93271dff6b70/202847739/22358196081_b44d143019.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2015/10/22/the-problem-with-pumpkin-spice-security-bugs/</link>
+            <guid isPermaLink="false">21ba7335-68ad-4ce7-ac3f-36d853c6cb16</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to the era of Context Marketing]]></title>
             <description><![CDATA[<article><h1>Welcome to the era of Context Marketing</h1><p>By Michael Seifert, October 18, 2015 | | I enjoy the experience of buying a new product much more than actually receiving it. The timespan between desire and fulfillment reminds me of when I was a kid and could not wait to open my Christmas presents.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Business%20Blogs/MS108.ashx?ts=101715101112000&h=108&la=en&w=108"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.engadget.com/2015/10/22/doom-closed-alpha-multiplayer-footage/</link>
             <guid isPermaLink="false">7677142b-32bf-4305-90d4-ab289ce355a5</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Art of the Sitecore Upgrade]]></title>
-            <description><![CDATA[<article><h1>The Art of the Sitecore Upgrade</h1><p>Last week, we hosted a meetup here at Velir for the New England Sitecore User Group on a new way to upgrade a Sitecore website. In case you weren't able to make it, this post gives a brief overview of the talk and additional resources going forward.</p><img src="http://www.velir.com/blog/wp-content/uploads/2015/06/sitecore-upgrades-e1434995011796.png"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2015/06/25/the-art-of-the-sitecore-upgrade/</link>
-            <guid isPermaLink="false">a217c8cc-e4f6-40d6-aad9-84970a8ac61a</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

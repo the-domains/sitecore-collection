@@ -4,8 +4,15 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:59:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:59:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
+            <description><![CDATA[<article><h1>Sitecore Shifts Focus in 8.1 Release</h1><p>Sitecore just released version 8.1 of its Experience Platform. But this update to its flagship product is not, to coin a phrase, your father's dot release. New features suggest Sitecore is significantly shifting its approach to the market. For example: The Experience Platform is entirely context-focused now.</p><img src="http://www.cmswire.com/~/media/b14513a9e4d146d191d0b0d3ff7c7adb.jpeg"></article>]]></description>
+            <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
+            <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[xDB: Sitecore DMS Moves to MongoDB]]></title>
             <description><![CDATA[<article><h1>xDB: Sitecore DMS Moves to MongoDB</h1><p>When Sitecore feels that they have moved the ball significantly, they tend to mark the occasion with a name change or two. So when batched writes came to the Online Marketing System (OMS), it became the Digital Marketing Suite (DMS), and when personalization was fully integrated into the Page Editor, it became, officially at least, the Experience Editor, and the CMS + DMS combination became the Customer Experience Platform.</p><img src="http://www.velir.com/blog/wp-content/uploads/2014/06/Json-Document.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Nexus 6P Review: Google And Huawei Have Made Magic</h1><p>A week ago, we took an early look at the Nexus 6P, the larger and more "premium" of Google's phones for 2015. Now that I've lived with the 6P for a bit longer, it's time for the full review. As stated in the preview post, the 6P is undoubtedly the more premium of the two new Nexuses.</p><img src="http://www.androidpolice.com/wp-content/uploads/2015/10/nexus2cee_DSC6897-728x485.jpg"></article>]]></description>
             <link>http://www.androidpolice.com/2015/10/26/nexus-6p-review/</link>
             <guid isPermaLink="false">5035c337-52ff-40ac-92d1-2b032326f8b8</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore Standard Template Security | Sitecore]]></title>
-            <description><![CDATA[<article><h1>Sitecore Standard Template Security | Sitecore</h1><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/sitecore-standard-template-security.aspx</link>
-            <guid isPermaLink="false">b108ae8c-44ef-4fde-9e5f-b53f6541f509</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
         </item>
     </channel>

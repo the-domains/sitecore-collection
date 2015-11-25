@@ -4,13 +4,20 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 20:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 20:02:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
             <description><![CDATA[<article><h1>Sitecore Shifts Focus in 8.1 Release</h1><p>Sitecore just released version 8.1 of its Experience Platform. But this update to its flagship product is not, to coin a phrase, your father's dot release. New features suggest Sitecore is significantly shifting its approach to the market. For example: The Experience Platform is entirely context-focused now.</p><img src="http://www.cmswire.com/~/media/b14513a9e4d146d191d0b0d3ff7c7adb.jpeg"></article>]]></description>
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michigan State marching band performs Marvel routine [VIDEO]]]></title>
+            <description><![CDATA[<article><h1>Michigan State marching band performs Marvel routine [VIDEO]</h1><p>College football fans who still have Comic Con withdrawal now have a little taste of heaven: The Michigan State marching band's new Marvel-themed routine. The band brings you the good jams from your favorite superhero movies, including Guardians of the Galaxy, Spiderman and The Avengers.</p><img src="http://rack.1.mshcdn.com/media/ZgkyMDE1LzEwLzIwL2M5L1NwYXJ0YW5NYXJ2LjE0MjQxLmpwZwpwCXRodW1iCTEyMDB4NjI3IwplCWpwZw/4ff9a5f3/504/SpartanMarvel_Thumbnail.jpg"></article>]]></description>
+            <link>http://mashable.com/2015/10/20/marching-band-marvel-routine/</link>
+            <guid isPermaLink="false">e0690d2f-0e2d-4812-a987-8ba66b98b318</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://www.velir.com/blog/index.php/2014/06/03/xdb-sitecore-dms-moves-to-mongodb/</link>
             <guid isPermaLink="false">59014c0d-f59f-491b-8086-19d9f40c0a80</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Customers Don't Buy Products, They Buy Outcomes]]></title>
-            <description><![CDATA[<article><h1>Customers Don't Buy Products, They Buy Outcomes</h1><p>By Darren Guarnaccia, November 20, 2015 | | Customer experience is a series of interactions that bring someone to the outcome they want. Product doesn't always take center stage. I've said it in front of audiences worldwide, and heads start nodding immediately in agreement: "Customers don't buy products, they buy outcomes."</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Company/Who%20We%20Are/Corporate/Darren%20Guarnaccia.ashx?ts=020812101557970&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/business-blogs/industry-insight/posts/2015/11/cxoutcomes.aspx</link>
-            <guid isPermaLink="false">e1853eeb-23bc-4db1-9f8a-ab7b0f02611d</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,8 +4,36 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:52:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:53:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coveo and Sitecore 7: What's New and Improved]]></title>
+            <description><![CDATA[<article><h1>Coveo and Sitecore 7: What's New and Improved</h1><img src="http://www.velir.com/blog/wp-content/uploads/2013/11/Coveo-Configuration-Panel.png"></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2013/12/12/coveo-and-sitecore-7-whats-new-and-improved/</link>
+            <guid isPermaLink="false">3153a3b2-1d02-4609-8b94-364fac1c36fc</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Create a Custom Publish Queue in Sitecore]]></title>
+            <description><![CDATA[<article><h1>How to Create a Custom Publish Queue in Sitecore</h1><p>Welcome to the first entry in our new series: Specific Solutions for Uncommon Problems. The goal of this series is to present real-world issues that came up during web design and development projects and demonstrate our solutions to them, without attempting to generalize for a larger audience.</p><img src="http://0.gravatar.com/avatar/06e96f1b4bb17bda7223c3f0e94ac496?s=38&d=mm&r=g"></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2013/11/22/how-to-create-a-custom-publish-queue-in-sitecore/</link>
+            <guid isPermaLink="false">bf26973d-a6fc-4f0c-bd6d-707aa16681fb</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Web Implementation & Integration]]></title>
+            <description><![CDATA[<article><h1>Web Implementation & Integration</h1><p>Not too long ago (prior to Sitecore 7.5) we had a requirement to add the ability to sort Sitecore items by Most Viewed and Most Shared. We got to thinking about what was the best way to implement something like this. In the past we may have created a custom database to track this information.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Technical%20Blogs/Blogger%20Pics/MikeSkutta_108px.ashx?ts=032715104717867&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/mike-skutta/posts/2015/05/sorting-sitecore-items-by-popularity-using-google-analytics.aspx</link>
+            <guid isPermaLink="false">2048060c-6c90-46ef-b7d7-aaaf75ef0b30</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google's cheapest Nexus phone is easy to fix, too]]></title>
+            <description><![CDATA[<article><h1>Google's cheapest Nexus phone is easy to fix, too</h1><p>It turns out that the cheaper of Google's two new Nexus Marshmallow devices, LG's Nexus 5X, is a cinch to repair, according to . The 5.2-inch, $379 device can be taken apart with a Philips screwdriver, and many of the parts are then user replaceable, including the " Imprint" fingerprint sensor, camera and battery.</p><img src="http://o.aolcdn.com/hss/storage/midas/aeea1614d0ea93d142ce08ceebff63a0/202851316/nexus5x-teardown-2015-10-23-01.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2015/10/23/ifixit-nexus5x-teardown/</link>
+            <guid isPermaLink="false">70140afd-e87e-49e7-8a0e-e0cf2cc6c143</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sitecore Multisite, Part 0: Resource Index | John West | Sitecore Blog]]></title>
             <description><![CDATA[<article><h1>Sitecore Multisite, Part 0: Resource Index | John West | Sitecore Blog</h1><p>This blog post contains links to resources that contain information about managing multiple logical sites with individual instances of the Sitecore ASP.NET web Content Management System (CMS) and Customer Engagement Platform (CEP). You can load-balance any number of managed sites across any number of instances.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>http://www.velir.com/blog/index.php/2013/09/20/a-command-line-for-sitecore/</link>
             <guid isPermaLink="false">b56b2838-3ded-44f9-a310-b1f128d056f1</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore Implementation Roles | Sitecore]]></title>
-            <description><![CDATA[<article><h1>Sitecore Implementation Roles | Sitecore</h1><p>This (intentionally short) blog post presents some of my perspectives on many of the roles involved in a Sitecore web Content Management System (CMS) and Experience Platform (XP) implementation. Any organization implementing CMS must consider not as a product selection process and solution implementation, but as an ongoing and essential program for the organization.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/06/sitecore-implementation-roles.aspx</link>
-            <guid isPermaLink="false">820fdc9d-1102-48a0-bd29-f2f14c1a3fb4</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[14 tips for surviving a horror movie]]></title>
-            <description><![CDATA[<article><h1>14 tips for surviving a horror movie</h1><p>We all know the basic rules: Don't split up. Don't say "I'll be right back." Don't have sex or do drugs. But while tales of terror tend to follow the same formula, they've also got plenty of variations.</p><img src="http://rack.0.mshcdn.com/media/ZgkyMDE1LzEwLzIxLzE5L1RHMDAxNjk4LmJkODU1LmpwZwpwCXRodW1iCTEyMDB4NjI3IwplCWpwZw/08daa4b0/378/TG001698.jpg"></article>]]></description>
-            <link>http://mashable.com/2015/10/20/horror-story-tips/</link>
-            <guid isPermaLink="false">01e863dd-5d4b-4fe5-9225-feac421bc8fd</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[External Link Validation with the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
-            <description><![CDATA[<article><h1>External Link Validation with the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, February 06, 2015 | | This blog post describes a prototype for validating external links in Rich Text fields with the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP). This field validator uses HtmlAgilityPack to retrieve the href attribute of elements in the field value, and then uses WebRequest.Create() to place HEAD requests for those URLs.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/02/external-link-validation-with-the-sitecore-aspnet-cms.aspx</link>
-            <guid isPermaLink="false">6aaf446b-4463-4b5e-b7dc-98d527b95718</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The latest Tweets from Sitecore (@Sitecore). Sitecore empowers marketers to deliver content in context of how customers have engaged with their brand, across every channel, in real time</p>]]></description>
-            <link>https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiW5cLc7KvJAhUKOD4KHez6AoUQ6F4IMTAC&amp;url=https%3A%2F%2Ftwitter.com%2FSitecore%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&amp;usg=AFQjCNFvVUoLgyAJyHC64z5U-pTqSSBelQ&amp;sig2=h9ehhYNt0UCXyU8wK_LkxA</link>
-            <guid isPermaLink="false">fc6260f2-1bdd-4af5-9f10-94f51d23bf18</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

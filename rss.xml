@@ -4,8 +4,15 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:51:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google's redesigned Play store starts rolling out]]></title>
+            <description><![CDATA[<article><h1>Google's redesigned Play store starts rolling out</h1><p>After being teased last week by Google engineer Kirill Grouchnikov, the redesigned Play store has apparently started showing up on some Android devices. Android Central says the new mobile shop for apps, books, music, movies and more, which features a simplified tab-based interface, hit one of its smartphones last night.</p><img src="http://o.aolcdn.com/hss/storage/midas/4e4ac563f3c83648974b7fa3bf139451/202815378/googleplay.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2015/10/22/google-play-store-redesign-rolling-out/</link>
+            <guid isPermaLink="false">a5133a47-75bc-4b75-a673-0184f6375959</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pandora signs $90 million truce with the recording industry]]></title>
             <description><![CDATA[<article><h1>Pandora signs $90 million truce with the recording industry</h1><p>Thanks to a quirk of copyright law, songs recorded before February 15th, 1972 weren't covered at the federal level. It's a loophole of sorts that Pandora, amongst others, has exploited to play classic pre-1972 tracks without paying a cent to the record labels.</p><img src="http://o.aolcdn.com/hss/storage/midas/83561b9301120737950629a7c1441c3b/202850659/pandora.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Pack of dogs chase a laser dot in the square</h1><p>These playful pooches are playing a friendly game of follow the leader with a laser, which seems to be controlled from at least eight stories up. The fun quickly grows from a group of four to every dog in the vicinity, with a video set to a rousing soundtrack.</p><img src="http://rack.1.mshcdn.com/media/ZgkyMDE1LzEwLzIxL2VkL2RvZ3NsYXNlcnRhLmMwMWE5LmpwZwpwCXRodW1iCTEyMDB4NjI3IwplCWpwZw/94dc01fd/81e/dogs-laser-tag.jpg"></article>]]></description>
             <link>http://mashable.com/2015/10/21/dogs-chase-laser/</link>
             <guid isPermaLink="false">9d869a94-916a-4677-b31a-5811cbedaaab</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore DMS Engagement Value - Part 1]]></title>
-            <description><![CDATA[<article><h1>Sitecore DMS Engagement Value - Part 1</h1><p>When Sitecore introduced the concept of Engagement Value they created a valuable metric, especially for organizations that don't collect revenue online. Determining where Engagement Value fits in the broader ecosystem of web and organizational metrics is a challenge for companies and their Sitecore implementation partners.</p><img src="http://www.velir.com/blog/wp-content/uploads/2014/01/decayed-engagement-value-960x380.jpg"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2014/01/06/sitecore-dms-engagement-value-part-1/</link>
-            <guid isPermaLink="false">82b6af35-5d75-4216-a233-966bab01c9c6</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
         </item>
     </channel>

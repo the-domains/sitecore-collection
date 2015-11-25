@@ -4,7 +4,7 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 20:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 20:07:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Data Source Items vs Rendering Parameters in the Sitecore ASPNET CMS | Sitecore]]></title>
+            <description><![CDATA[<article><h1>Data Source Items vs Rendering Parameters in the Sitecore ASPNET CMS | Sitecore</h1><p>The Sitecore Developer Network (SDN) forum thread linked in the Resources section at the end of this page prompted me to write this blog post that attempts to describe some of the issues that developers should consider when deciding whether to use rendering parameters or data source items in the Sitecore ASP.NET web Content Management System (CMS).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/data-source-items-vs-rendering-parameters-in-the-sitecore-aspnet-cms.aspx</link>
+            <guid isPermaLink="false">57ddf787-33aa-4514-be3e-f61b60ba9786</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sitecore Multisite, Part 3: CMS Cookies and Hostnames | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Sitecore Multisite, Part 3: CMS Cookies and Hostnames | John West | Sitecore Blog</h1><p>This blog post explains some issues that you may face due to the association of cookies with hostnames in the Sitecore ASP.NET web Content Management System (CMS) and Customer Engagement Platform (CEP). The issues described in this blog post are not completely specific to Sitecore (any solution using multiple hostnames would face these conditions).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2013/10/sitecore-multisite-part-3-cms-cookies-and-hostnames.aspx</link>
+            <guid isPermaLink="false">756d02dd-c0e0-4ae0-9777-9bd5a56318bf</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Templating Rich Text Content in Sitecore using Razor]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Surface Book review: the ultimate laptop, even if it isn't perfect</h1><p>For years, Microsoft has been telling us that the future of PCs was actually the tablet. The Surface Pro in particular is powerful enough that it could truly keep pace with your laptop, and Microsoft hasn't been shy about comparing it to the MacBook Air.</p><img src="http://o.aolcdn.com/hss/storage/midas/260a28f288352ef91fd5276a1aaf2d49/202826806/Fullbleed.jpg"></article>]]></description>
             <link>http://www.engadget.com/2015/10/21/surface-book-review/</link>
             <guid isPermaLink="false">4141e7fa-a2f5-4bff-b170-cf6ffb3b9168</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore Multisite, Part 4: Cross-Site Links | John West | Sitecore Blog]]></title>
-            <description><![CDATA[<article><h1>Sitecore Multisite, Part 4: Cross-Site Links | John West | Sitecore Blog</h1><p>This (short) blog post contains information about linking between multiple logical sites managed by a single instance of the Sitecore ASP.NET web Content management System (CMS) and Customer Engagement Platform (CEP). If CMS users create links between managed sites, you need to ensure that your solution uses the correct hostnames when rendering those links.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2013/10/sitecore-multisite-part-4-cross-site-links.aspx</link>
-            <guid isPermaLink="false">412d45cd-d092-4894-9daf-5ee248ac1bd8</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dynamic Bucket Item Paths in the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
-            <description><![CDATA[<article><h1>Dynamic Bucket Item Paths in the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, December 14, 2014 | | This blog post describes an approach to managing paths to items semi dynamically in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2014/12/dynamic-bucket-item-paths-in-the-sitecore-aspnet-cms.aspx</link>
-            <guid isPermaLink="false">4237077f-40a1-48a7-a4ec-76d8ebe70579</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
         </item>
     </channel>

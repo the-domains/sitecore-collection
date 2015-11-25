@@ -4,8 +4,15 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:53:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:53:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Quick Guide on Setting-up Branded Microsites in Sitecore]]></title>
+            <description><![CDATA[<article><h1>A Quick Guide on Setting-up Branded Microsites in Sitecore</h1><p>Many organizations utilize microsites to showcase specific products, services, or campaigns to targeted audiences in a more focused way than their larger flagship site. The development, configuration, and deployment of multiple microsites, however, can quickly become complex and unwieldy.</p></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2014/12/17/a-quick-guide-on-setting-up-branded-microsites-in-sitecore/</link>
+            <guid isPermaLink="false">a6d8ed02-18c3-4363-8099-6732249332b7</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coveo and Sitecore 7: What's New and Improved]]></title>
             <description><![CDATA[<article><h1>Coveo and Sitecore 7: What's New and Improved</h1><img src="http://www.velir.com/blog/wp-content/uploads/2013/11/Coveo-Configuration-Panel.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Pandora signs $90 million truce with the recording industry</h1><p>Thanks to a quirk of copyright law, songs recorded before February 15th, 1972 weren't covered at the federal level. It's a loophole of sorts that Pandora, amongst others, has exploited to play classic pre-1972 tracks without paying a cent to the record labels.</p><img src="http://o.aolcdn.com/hss/storage/midas/83561b9301120737950629a7c1441c3b/202850659/pandora.jpg"></article>]]></description>
             <link>http://www.engadget.com/2015/10/23/pandora-90-million-riaa/</link>
             <guid isPermaLink="false">8ff99765-2c4a-4d55-a78c-c418fa5dd117</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Command Line for Sitecore]]></title>
-            <description><![CDATA[<article><h1>A Command Line for Sitecore</h1><p>Two scripting tools for Sitecore, Revolver and PowerShell Extensions, have the power to save significant developer time as demonstrated during the latest New England Sitecore User Group. This article summarizes key insights and takeaways gained during this meetup.</p><img src="http://www.velir.com/blog/wp-content/uploads/2013/09/group1.jpg"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2013/09/20/a-command-line-for-sitecore/</link>
-            <guid isPermaLink="false">b56b2838-3ded-44f9-a310-b1f128d056f1</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
         </item>
     </channel>

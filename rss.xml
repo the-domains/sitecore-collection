@@ -4,13 +4,27 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 20:00:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 20:00:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
             <description><![CDATA[<article><h1>Sitecore Shifts Focus in 8.1 Release</h1><p>Sitecore just released version 8.1 of its Experience Platform. But this update to its flagship product is not, to coin a phrase, your father's dot release. New features suggest Sitecore is significantly shifting its approach to the market. For example: The Experience Platform is entirely context-focused now.</p><img src="http://www.cmswire.com/~/media/b14513a9e4d146d191d0b0d3ff7c7adb.jpeg"></article>]]></description>
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Brands Should Upgrade to Sitecore XP 8.1]]></title>
+            <description><![CDATA[<article><h1>Why Brands Should Upgrade to Sitecore XP 8.1</h1><p>By Mark Floisand, November 02, 2015 | | In an always-on world, people have an endless number of channels for path to purchase, so brands must strategically engage with customers through personalized and context-driven content. In fact, according to a recent survey of more than 1,000 consumers in North America, we found that context-driven experiences consistently drive brand loyalty.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Business%20Blogs/Mark%20Floisand/Mark%20Floisand-640x959.ashx?ts=080414032055160&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/business-blogs/mark-floisand/posts/2015/11/whyupgrade81.aspx</link>
+            <guid isPermaLink="false">f0d41e1b-fba2-4b57-a6b8-90b8c0aa281e</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[​Twitter CEO and founder gives a third of his stock to employees]]></title>
+            <description><![CDATA[<article><h1>​Twitter CEO and founder gives a third of his stock to employees</h1><p>"I'd rather have a smaller part of something big than a bigger part of something small." That's how Twitter CEO Jack Dorsey tweeted about his decision to channel a huge chunk of his own stake in the social network back to the employee stock compensation pool.</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/4100x2706+0+0/resize/1200x792!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/d3897454abb3c4cb0ddeaa495bb871dd/201722924/459305148.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2015/10/23/twitter-ceo-and-founder-gives-a-third-of-his-stock-to-employees/</link>
+            <guid isPermaLink="false">0cc91fdd-dc99-451c-af4e-0961d25dc736</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
         </item>
         <item>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>The problem with 'pumpkin spice' security bugs</h1><p>Bad Password is a hacking and security column by Violet Blue. Every week she'll be exploring the trendy new cyberhysteria, the state of the infosec community and the ever-eroding thing that used to be called "privacy." Bad Password cuts through the greed, fear mongering and jargon with expertise, a friendly voice and a little level-headed perspective.</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/2100x1325+0+0/resize/1200x757!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/d57ce6b59162dc7262fa93271dff6b70/202847739/22358196081_b44d143019.jpg"></article>]]></description>
             <link>http://www.engadget.com/2015/10/22/the-problem-with-pumpkin-spice-security-bugs/</link>
             <guid isPermaLink="false">21ba7335-68ad-4ce7-ac3f-36d853c6cb16</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to the era of Context Marketing]]></title>
-            <description><![CDATA[<article><h1>Welcome to the era of Context Marketing</h1><p>By Michael Seifert, October 18, 2015 | | I enjoy the experience of buying a new product much more than actually receiving it. The timespan between desire and fulfillment reminds me of when I was a kid and could not wait to open my Christmas presents.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Business%20Blogs/MS108.ashx?ts=101715101112000&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/business-blogs/michael-seifert/posts/2015/10/contextmarketing.aspx</link>
-            <guid isPermaLink="false">7e8419f2-0127-4b34-bf4d-5f5948681a1b</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore Multisite, Part 2: Authentication | John West | Sitecore Blog]]></title>
-            <description><![CDATA[<article><h1>Sitecore Multisite, Part 2: Authentication | John West | Sitecore Blog</h1><p>This blog post contains information about using different technologies and authenticating different populations of users against separate sites managed by the Sitecore ASP.NET web Content Management System (CMS) and Customer Engagement Platform (CEP). This multisite challenge is not specific to Sitecore, but Sitecore provides some solutions.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/Community/Technical-Blogs/John-West-Sitecore-Blog/Posts/2013/10/Sitecore-Multisite-Part-2-Authentication.aspx</link>
-            <guid isPermaLink="false">d4f960fa-82b7-4a61-92ca-80338e8a1523</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
         </item>
     </channel>

@@ -4,8 +4,15 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:51:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:51:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[External Link Validation with the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>External Link Validation with the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, February 06, 2015 | | This blog post describes a prototype for validating external links in Rich Text fields with the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP). This field validator uses HtmlAgilityPack to retrieve the href attribute of elements in the field value, and then uses WebRequest.Create() to place HEAD requests for those URLs.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/02/external-link-validation-with-the-sitecore-aspnet-cms.aspx</link>
+            <guid isPermaLink="false">6aaf446b-4463-4b5e-b7dc-98d527b95718</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The latest Tweets from Sitecore (@Sitecore). Sitecore empowers marketers to deliver content in context of how customers have engaged with their brand, across every channel, in real time</p>]]></description>

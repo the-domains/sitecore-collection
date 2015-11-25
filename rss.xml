@@ -4,8 +4,29 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:51:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Command Line for Sitecore]]></title>
+            <description><![CDATA[<article><h1>A Command Line for Sitecore</h1><p>Two scripting tools for Sitecore, Revolver and PowerShell Extensions, have the power to save significant developer time as demonstrated during the latest New England Sitecore User Group. This article summarizes key insights and takeaways gained during this meetup.</p><img src="http://www.velir.com/blog/wp-content/uploads/2013/09/group1.jpg"></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2013/09/20/a-command-line-for-sitecore/</link>
+            <guid isPermaLink="false">b56b2838-3ded-44f9-a310-b1f128d056f1</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sitecore Implementation Roles | Sitecore]]></title>
+            <description><![CDATA[<article><h1>Sitecore Implementation Roles | Sitecore</h1><p>This (intentionally short) blog post presents some of my perspectives on many of the roles involved in a Sitecore web Content Management System (CMS) and Experience Platform (XP) implementation. Any organization implementing CMS must consider not as a product selection process and solution implementation, but as an ongoing and essential program for the organization.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/06/sitecore-implementation-roles.aspx</link>
+            <guid isPermaLink="false">820fdc9d-1102-48a0-bd29-f2f14c1a3fb4</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[14 tips for surviving a horror movie]]></title>
+            <description><![CDATA[<article><h1>14 tips for surviving a horror movie</h1><p>We all know the basic rules: Don't split up. Don't say "I'll be right back." Don't have sex or do drugs. But while tales of terror tend to follow the same formula, they've also got plenty of variations.</p><img src="http://rack.0.mshcdn.com/media/ZgkyMDE1LzEwLzIxLzE5L1RHMDAxNjk4LmJkODU1LmpwZwpwCXRodW1iCTEyMDB4NjI3IwplCWpwZw/08daa4b0/378/TG001698.jpg"></article>]]></description>
+            <link>http://mashable.com/2015/10/20/horror-story-tips/</link>
+            <guid isPermaLink="false">01e863dd-5d4b-4fe5-9225-feac421bc8fd</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[External Link Validation with the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
             <description><![CDATA[<article><h1>External Link Validation with the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, February 06, 2015 | | This blog post describes a prototype for validating external links in Rich Text fields with the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP). This field validator uses HtmlAgilityPack to retrieve the href attribute of elements in the field value, and then uses WebRequest.Create() to place HEAD requests for those URLs.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>

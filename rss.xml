@@ -4,13 +4,20 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 20:00:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
             <description><![CDATA[<article><h1>Sitecore Shifts Focus in 8.1 Release</h1><p>Sitecore just released version 8.1 of its Experience Platform. But this update to its flagship product is not, to coin a phrase, your father's dot release. New features suggest Sitecore is significantly shifting its approach to the market. For example: The Experience Platform is entirely context-focused now.</p><img src="http://www.cmswire.com/~/media/b14513a9e4d146d191d0b0d3ff7c7adb.jpeg"></article>]]></description>
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Custom Bucket Path Actions with the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Custom Bucket Path Actions with the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, December 14, 2014 | | This blog post explains how you can implement custom actions to determine paths created in or moved to buckets in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Technical%20Blogs/West%20blog/2014/12/MetadataPathRules.ashx?ts=121414073441779"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2014/12/custom-bucket-path-actions-with-the-sitecore-aspnet-cms.aspx</link>
+            <guid isPermaLink="false">5b95ed18-0ba6-408c-bb11-1a9016f9b361</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Sitecore Multisite, Part 2: Authentication | John West | Sitecore Blog</h1><p>This blog post contains information about using different technologies and authenticating different populations of users against separate sites managed by the Sitecore ASP.NET web Content Management System (CMS) and Customer Engagement Platform (CEP). This multisite challenge is not specific to Sitecore, but Sitecore provides some solutions.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
             <link>http://www.sitecore.net/Community/Technical-Blogs/John-West-Sitecore-Blog/Posts/2013/10/Sitecore-Multisite-Part-2-Authentication.aspx</link>
             <guid isPermaLink="false">d4f960fa-82b7-4a61-92ca-80338e8a1523</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nexus 6P Review: Google And Huawei Have Made Magic]]></title>
-            <description><![CDATA[<article><h1>Nexus 6P Review: Google And Huawei Have Made Magic</h1><p>A week ago, we took an early look at the Nexus 6P, the larger and more "premium" of Google's phones for 2015. Now that I've lived with the 6P for a bit longer, it's time for the full review. As stated in the preview post, the 6P is undoubtedly the more premium of the two new Nexuses.</p><img src="http://www.androidpolice.com/wp-content/uploads/2015/10/nexus2cee_DSC6897-728x485.jpg"></article>]]></description>
-            <link>http://www.androidpolice.com/2015/10/26/nexus-6p-review/</link>
-            <guid isPermaLink="false">5035c337-52ff-40ac-92d1-2b032326f8b8</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
         </item>
     </channel>

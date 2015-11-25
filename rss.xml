@@ -4,7 +4,7 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 20:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 20:04:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
@@ -12,6 +12,27 @@
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Surface Book review: the ultimate laptop, even if it isn't perfect]]></title>
+            <description><![CDATA[<article><h1>Surface Book review: the ultimate laptop, even if it isn't perfect</h1><p>For years, Microsoft has been telling us that the future of PCs was actually the tablet. The Surface Pro in particular is powerful enough that it could truly keep pace with your laptop, and Microsoft hasn't been shy about comparing it to the MacBook Air.</p><img src="http://o.aolcdn.com/hss/storage/midas/260a28f288352ef91fd5276a1aaf2d49/202826806/Fullbleed.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2015/10/21/surface-book-review/</link>
+            <guid isPermaLink="false">4141e7fa-a2f5-4bff-b170-cf6ffb3b9168</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sitecore Multisite, Part 4: Cross-Site Links | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Sitecore Multisite, Part 4: Cross-Site Links | John West | Sitecore Blog</h1><p>This (short) blog post contains information about linking between multiple logical sites managed by a single instance of the Sitecore ASP.NET web Content management System (CMS) and Customer Engagement Platform (CEP). If CMS users create links between managed sites, you need to ensure that your solution uses the correct hostnames when rendering those links.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2013/10/sitecore-multisite-part-4-cross-site-links.aspx</link>
+            <guid isPermaLink="false">412d45cd-d092-4894-9daf-5ee248ac1bd8</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dynamic Bucket Item Paths in the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Dynamic Bucket Item Paths in the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, December 14, 2014 | | This blog post describes an approach to managing paths to items semi dynamically in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2014/12/dynamic-bucket-item-paths-in-the-sitecore-aspnet-cms.aspx</link>
+            <guid isPermaLink="false">4237077f-40a1-48a7-a4ec-76d8ebe70579</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tracking Sitecore DMS with Real Time Analytics]]></title>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Halo 5: Guardians review</h1><p>Halo 5: Guardians has more weights around its neck than really seems fair. Many Halo fans still feel like the series' adoptive parents at 343 Industries have things to prove, that the developer has...</p><img src="https://cdn1.vox-cdn.com/thumbor/SJAB4DQQ0N6XKCryMs_BKiC5hdk=/cdn0.vox-cdn.com/uploads/chorus_asset/file/4196911/H5-Guardians-REQ-Collection-Weapons-01.0.jpg"></article>]]></description>
             <link>http://www.polygon.com/2015/10/26/9553081/halo-5-guardians-review-xbox-one</link>
             <guid isPermaLink="false">8bb0d2d1-ad87-4178-b1fb-ac6e71c18b59</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Use XSL to Visualize Layout Details in the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
-            <description><![CDATA[<article><h1>Use XSL to Visualize Layout Details in the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, December 30, 2014 | | This blog post provides prototype XSL that renders layout details for an item in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP) as HTML.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2014/12/use-xsl-to-visualize-layout-details-in-the-sitecore-aspnet-cms.aspx</link>
-            <guid isPermaLink="false">3f4dd338-fbc7-4613-88c4-25f1b087eede</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Test-Driven Sitecore]]></title>
-            <description><![CDATA[<article><h1>Test-Driven Sitecore</h1><p>Earlier this evening, I had the opportunity to talk to the New England Sitecore User Group about a topic of deep interest to me - Test-Driven Development (TDD) within Sitecore. This post contains a quick recap of the talk and includes links to various resources on the subject.</p><img src="http://www.velir.com/blog/wp-content/uploads/2015/05/Test-Driven-Sitecore-3-e1432164101445.jpg"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2015/05/20/test-driven-sitecore/</link>
-            <guid isPermaLink="false">175bf3ad-dbf0-4bd8-964b-ebbdf6a4d83c</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Brands Should Upgrade to Sitecore XP 8.1]]></title>
-            <description><![CDATA[<article><h1>Why Brands Should Upgrade to Sitecore XP 8.1</h1><p>By Mark Floisand, November 02, 2015 | | In an always-on world, people have an endless number of channels for path to purchase, so brands must strategically engage with customers through personalized and context-driven content. In fact, according to a recent survey of more than 1,000 consumers in North America, we found that context-driven experiences consistently drive brand loyalty.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Business%20Blogs/Mark%20Floisand/Mark%20Floisand-640x959.ashx?ts=080414032055160&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/business-blogs/mark-floisand/posts/2015/11/whyupgrade81.aspx</link>
-            <guid isPermaLink="false">f0d41e1b-fba2-4b57-a6b8-90b8c0aa281e</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
         </item>
     </channel>

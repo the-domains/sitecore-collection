@@ -4,13 +4,20 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 20:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 20:02:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
             <description><![CDATA[<article><h1>Sitecore Shifts Focus in 8.1 Release</h1><p>Sitecore just released version 8.1 of its Experience Platform. But this update to its flagship product is not, to coin a phrase, your father's dot release. New features suggest Sitecore is significantly shifting its approach to the market. For example: The Experience Platform is entirely context-focused now.</p><img src="http://www.cmswire.com/~/media/b14513a9e4d146d191d0b0d3ff7c7adb.jpeg"></article>]]></description>
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evaluating BrainJocks SCORE for the Sitecore ASP.NET CMS: What You Need | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Evaluating BrainJocks SCORE for the Sitecore ASP.NET CMS: What You Need | John West | Sitecore Blog</h1><p>By John West, February 25, 2015 | | This blog post, specifically about the skills and tools you should have before you begin your evaluation, is one in a series about my experience with BrainJocks SCORE for the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/02/evaluating-brainjocks-score-for-the-sitecore-aspnet-cms-what-you-need.aspx</link>
+            <guid isPermaLink="false">7e353017-94c0-4d4b-8ac3-b8ceb3d59b37</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Customers Don't Buy Products, They Buy Outcomes</h1><p>By Darren Guarnaccia, November 20, 2015 | | Customer experience is a series of interactions that bring someone to the outcome they want. Product doesn't always take center stage. I've said it in front of audiences worldwide, and heads start nodding immediately in agreement: "Customers don't buy products, they buy outcomes."</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Company/Who%20We%20Are/Corporate/Darren%20Guarnaccia.ashx?ts=020812101557970&h=108&la=en&w=108"></article>]]></description>
             <link>http://www.sitecore.net/learn/blogs/business-blogs/industry-insight/posts/2015/11/cxoutcomes.aspx</link>
             <guid isPermaLink="false">e1853eeb-23bc-4db1-9f8a-ab7b0f02611d</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Align Your Company Around Digital Experience]]></title>
-            <description><![CDATA[<article><h1>Align Your Company Around Digital Experience</h1><p>By Mark Floisand, November 18, 2015 | | This article was originally published on CMSWire. Every day, the need for a cohesive digital strategy gets more and more vital. And every day, mapping out the digital experience gets more complex.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Business%20Blogs/Mark%20Floisand/Mark%20Floisand-640x959.ashx?ts=080414032055160&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/business-blogs/mark-floisand/posts/2015/11/dxalignment.aspx</link>
-            <guid isPermaLink="false">74a7b6f0-16bc-40ef-93df-bba124d68092</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
         </item>
     </channel>

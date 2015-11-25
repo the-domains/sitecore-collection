@@ -4,7 +4,7 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 20:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 20:09:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
@@ -12,6 +12,34 @@
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DataEverywhere | Sitecore]]></title>
+            <description><![CDATA[<article><h1>DataEverywhere | Sitecore</h1><p>By Charlotte Ziems, October 22, 2015 | | Right this second, at many businesses, a ton of customer data is sitting stagnant and powerless in siloed databases. Sales contact data in CRM systems, customer support data in ticketing system databases.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Business%20Blogs/Charlotte%20Ziems.ashx?ts=102115095736000&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/business-blogs/charlotte-ziems/posts/2015/10/dataeverywhere.aspx</link>
+            <guid isPermaLink="false">c8bce382-fbac-4cd9-86a4-a0670dae7471</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FCC will publish telemarketer phone numbers to help you block them]]></title>
+            <description><![CDATA[<article><h1>FCC will publish telemarketer phone numbers to help you block them</h1><p>The Federal Communications Commission has said that protecting consumer privacy is one of its biggest priorities, and its latest actions prove just that. The communications bureau is going to publish the phone numbers of telemarketers on a weekly basis in an effort to help you preemptively block those annoying calls saying you've won a cruise or some other outlandish claim that might require forking over your credit card info.</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/2122x1663+0+0/resize/1200x940!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/b3e42836f7932f3496f1ecf3dc40e524/53036.JPG"></article>]]></description>
+            <link>http://www.engadget.com/2015/10/22/fcc-publish-robocall-numbers/</link>
+            <guid isPermaLink="false">0c6070ca-b556-4745-a58c-d74ed89bb41f</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sitecore DMS: Optimizing Conversions with Multivariate A/B Tests]]></title>
+            <description><![CDATA[<article><h1>Sitecore DMS: Optimizing Conversions with Multivariate A/B Tests</h1><p>Sitecore's Digital Marketing System (DMS) - part of the Sitecore Customer Engagement Platform (CEP) - enables marketers to create targeted and optimized campaigns with minimal effort. This article provides some very simple steps to start realizing the power of Sitecore DMS by increasing conversions on your website.</p><img src="http://www.velir.com/blog/wp-content/uploads/2013/04/velir-abtest.png"></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2013/04/17/sitecore-dms-optimizing-conversions-with-multivariate-ab-tests/</link>
+            <guid isPermaLink="false">1b2c0afd-4171-4c4d-97d7-7975083ee1e4</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sitecore Standard Template Statistics | Sitecore]]></title>
+            <description><![CDATA[<article><h1>Sitecore Standard Template Statistics | Sitecore</h1><p>This blog post contains information about the fields in the Statistics section of the standard template in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP). For more information about the standard template and topics mentioned in this blog post, see the links in the Resources section at the end of this page.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/sitecore-standard-template-statistics.aspx</link>
+            <guid isPermaLink="false">7f2d9fe6-ced7-4333-a391-566d3641a5ad</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Keep your Sitecore Solution Running Smoothly]]></title>
@@ -47,34 +75,6 @@
             <link>http://www.velir.com/blog/index.php/2013/01/15/field-suites-general-links-field/</link>
             <guid isPermaLink="false">6487cf50-20fe-455a-8186-e3aaff96dc1e</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Android Marshmallow requires devices to show all battery stats]]></title>
-            <description><![CDATA[<article><h1>Android Marshmallow requires devices to show all battery stats</h1><p>On top of the big changes coming with Android Marshmallow, Google is also forcing Android device makers to be more transparent about battery usage on all of their devices. Specifically, Google notes that devices "MUST be able to track hardware component power usage," as well as attribute usage to individual apps, according to the Marshmallow Compatibility Definition Document.</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x791+0+30/resize/1200x792!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/176ac960a2f46d6322530c5dd34d0f78/202849027/marshmallow-fb.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2015/10/23/android-marshmallow-battery/</link>
-            <guid isPermaLink="false">d4972a50-df89-4f7f-9ac1-72bfe76c0a8e</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netflix and thrill: 31 scary and strange movies to stream this Halloween]]></title>
-            <description><![CDATA[<article><h1>Netflix and thrill: 31 scary and strange movies to stream this Halloween</h1><p>Halloween: A time for scrounging up items, taping them to different appendages and watching partying strangers clumsily dance to "The Monster Mash" when you'd rather be watching movies with a bowl full of candy sitting comfortably in your lap. It's a holiday built on embracing the supernatural, creepy, macabre and gloriously weird.</p><img src="http://images1.villagevoice.com/imager/u/original/6443295/10145890.0.jpg"></article>]]></description>
-            <link>http://www.polygon.com/2015/10/28/9620230/netflix-and-thrill-31-scary-and-strange-movies-to-stream-this</link>
-            <guid isPermaLink="false">0ec05c06-bb30-446b-a4d4-0e8c2a5699df</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore New England User Group Meetup - Solr in Action!]]></title>
-            <description><![CDATA[<article><h1>Sitecore New England User Group Meetup - Solr in Action!</h1><p>Velir is excited to host the upcoming Sitecore New England User Group Meetup on March 12th, where Sitecore MVP Tim Braga will be reviewing a real-life Solr implementation used on GoCollette.com. There has been a lot of hype around Solr, and for good reason.</p></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2014/03/10/sitecore-new-england-user-group-meetup-solr-in-action/</link>
-            <guid isPermaLink="false">ca7e1c97-d415-49b6-8aca-2dd564f8114e</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 6 Stages of Digital Maturity for Non-Profit Associations & Professional Societies]]></title>
-            <description><![CDATA[<article><h1>The 6 Stages of Digital Maturity for Non-Profit Associations & Professional Societies</h1><p>Every industry and business sector has its own unique needs and challenges with how to embrace digital technologies. There's plenty of information out there on the thousands of different platforms, products, and services that enable organizations to make the move to digital.</p><img src="http://www.velir.com/blog/wp-content/uploads/2014/04/Blog_Header_Image_strategy-e1397685071767.png"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2014/01/27/the-6-stages-of-digital-maturity-for-non-profit-associations/</link>
-            <guid isPermaLink="false">7a2b3995-8d14-42a1-8f0e-6a81950b3565</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

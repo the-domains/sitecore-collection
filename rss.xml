@@ -4,7 +4,7 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 20:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 20:03:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tracking Sitecore DMS with Real Time Analytics]]></title>
+            <description><![CDATA[<article><h1>Tracking Sitecore DMS with Real Time Analytics</h1><p>I recently worked on a couple of projects where I implemented the multivariate testing included in Sitecore DMS. During implementation, I found that as I was navigating through the site I had a hard time analyzing the amount of engagement value and goals I was accruing.</p><img src="http://www.velir.com/blog/wp-content/uploads/2014/04/Blog_Header_Image_dataviz-200x100.png"></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2013/02/19/tracking-sitecore-dms-with-real-time-analytics/</link>
+            <guid isPermaLink="false">c555219e-51ea-4468-8a3a-72dcf99e72a7</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sitecore DMS Engagement Value - Part 1]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Why Brands Should Upgrade to Sitecore XP 8.1</h1><p>By Mark Floisand, November 02, 2015 | | In an always-on world, people have an endless number of channels for path to purchase, so brands must strategically engage with customers through personalized and context-driven content. In fact, according to a recent survey of more than 1,000 consumers in North America, we found that context-driven experiences consistently drive brand loyalty.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Business%20Blogs/Mark%20Floisand/Mark%20Floisand-640x959.ashx?ts=080414032055160&h=108&la=en&w=108"></article>]]></description>
             <link>http://www.sitecore.net/learn/blogs/business-blogs/mark-floisand/posts/2015/11/whyupgrade81.aspx</link>
             <guid isPermaLink="false">f0d41e1b-fba2-4b57-a6b8-90b8c0aa281e</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[​Twitter CEO and founder gives a third of his stock to employees]]></title>
-            <description><![CDATA[<article><h1>​Twitter CEO and founder gives a third of his stock to employees</h1><p>"I'd rather have a smaller part of something big than a bigger part of something small." That's how Twitter CEO Jack Dorsey tweeted about his decision to channel a huge chunk of his own stake in the social network back to the employee stock compensation pool.</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/4100x2706+0+0/resize/1200x792!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/d3897454abb3c4cb0ddeaa495bb871dd/201722924/459305148.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2015/10/23/twitter-ceo-and-founder-gives-a-third-of-his-stock-to-employees/</link>
-            <guid isPermaLink="false">0cc91fdd-dc99-451c-af4e-0961d25dc736</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
         </item>
     </channel>

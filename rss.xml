@@ -4,7 +4,7 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 20:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 20:06:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Sitecore Field Suite's General Links Field]]></title>
+            <description><![CDATA[<article><h1>The Sitecore Field Suite's General Links Field</h1><p>Field Suite I built the Sitecore Field Suite module a few months back to provide Sitecore users a more streamlined and informational approach to content authoring. The new Field Suite Module creates a new authoring experience with tooltips to view an item's path, in-line editing of referenced items, and visual indicators to let content authors know if their item and its referenced items are published.</p><img src="http://1.gravatar.com/avatar/d1fa8d1a5c5a6007dcf01680bddcd937?s=38&d=mm&r=g"></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2013/01/15/field-suites-general-links-field/</link>
+            <guid isPermaLink="false">6487cf50-20fe-455a-8186-e3aaff96dc1e</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Android Marshmallow requires devices to show all battery stats]]></title>
+            <description><![CDATA[<article><h1>Android Marshmallow requires devices to show all battery stats</h1><p>On top of the big changes coming with Android Marshmallow, Google is also forcing Android device makers to be more transparent about battery usage on all of their devices. Specifically, Google notes that devices "MUST be able to track hardware component power usage," as well as attribute usage to individual apps, according to the Marshmallow Compatibility Definition Document.</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x791+0+30/resize/1200x792!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/176ac960a2f46d6322530c5dd34d0f78/202849027/marshmallow-fb.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2015/10/23/android-marshmallow-battery/</link>
+            <guid isPermaLink="false">d4972a50-df89-4f7f-9ac1-72bfe76c0a8e</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netflix and thrill: 31 scary and strange movies to stream this Halloween]]></title>
@@ -61,20 +75,6 @@
             <link>http://www.velir.com/blog/index.php/2013/02/19/tracking-sitecore-dms-with-real-time-analytics/</link>
             <guid isPermaLink="false">c555219e-51ea-4468-8a3a-72dcf99e72a7</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore DMS Engagement Value - Part 1]]></title>
-            <description><![CDATA[<article><h1>Sitecore DMS Engagement Value - Part 1</h1><p>When Sitecore introduced the concept of Engagement Value they created a valuable metric, especially for organizations that don't collect revenue online. Determining where Engagement Value fits in the broader ecosystem of web and organizational metrics is a challenge for companies and their Sitecore implementation partners.</p><img src="http://www.velir.com/blog/wp-content/uploads/2014/01/decayed-engagement-value-960x380.jpg"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2014/01/06/sitecore-dms-engagement-value-part-1/</link>
-            <guid isPermaLink="false">77a4a0a3-b28e-4d73-af67-ec5e7f31df3b</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Going Viral Without Crashing: Preparing Your Website for Heavy Traffic]]></title>
-            <description><![CDATA[<article><h1>Going Viral Without Crashing: Preparing Your Website for Heavy Traffic</h1><p>What do the Eiffel Tower, Best Buy, and XeroShoes have in common? They can all tell you how the opportunity of a viral event can go to waste if you aren't ready for it. The Eiffel Tower's website crashed on March 31 when Google's doodle drove too much traffic to it.</p></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2015/04/27/going-viral-without-going-down-preparing-your-website-for-heavy-traffic/</link>
-            <guid isPermaLink="false">266453fe-1093-4b85-97b8-9874732ce514</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

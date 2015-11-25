@@ -4,8 +4,29 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:56:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sitecore Standard Template Security | Sitecore]]></title>
+            <description><![CDATA[<article><h1>Sitecore Standard Template Security | Sitecore</h1><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/sitecore-standard-template-security.aspx</link>
+            <guid isPermaLink="false">b108ae8c-44ef-4fde-9e5f-b53f6541f509</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sitecore Requirements and Recommendations for Mongo in Content Delivery | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Sitecore Requirements and Recommendations for Mongo in Content Delivery | John West | Sitecore Blog</h1><p>By John West, November 25, 2014 | | This blog post contains requirements and recommendations for configuring Mongo for the xDB (Experience Database) in the content delivery environment and for managing session data in the content management and content delivery environments.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2014/11/sitecore-requirements-and-recommendations-for-mongo-in-content-delivery.aspx</link>
+            <guid isPermaLink="false">42ab73d2-2908-4fb7-8b2a-9260e59cfcd3</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evaluating BrainJocks SCORE for the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Evaluating BrainJocks SCORE for the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, February 18, 2015 | | I intend for this to be the first in a series of blog posts describing my evaluation of BrainJocks SCORE for the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP). BrainJocks is a Sitecore partner with two MVPs on staff.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/02/evaluating-brainjocks-score-for-the-sitecore-aspnet-cms.aspx</link>
+            <guid isPermaLink="false">008f6bcc-7587-4564-bf53-b17ca7cb0ee4</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sitecore Standard Template Tasks Section | Sitecore]]></title>
             <description><![CDATA[<article><h1>Sitecore Standard Template Tasks Section | Sitecore</h1><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>How to Select a Sitecore Partner</h1><p>So you've decided to go with Sitecore as your website's CMS/platform. Unless you have the development chops in-house, you're going to need a certified Sitecore partner. Even companies with strong .NET developers on staff will need outside support for a Sitecore implementation.</p></article>]]></description>
             <link>http://www.velir.com/blog/index.php/2015/02/12/tips-on-how-to-select-a-sitecore-partner/</link>
             <guid isPermaLink="false">14497586-6074-41df-834c-68a3de46d5fa</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore 7 - An Insider's Look into New Features and Functionality]]></title>
-            <description><![CDATA[<article><h1>Sitecore 7 - An Insider's Look into New Features and Functionality</h1><p>From the moment Sitecore 6 was released in 2008, developers and others in the Sitecore community have been hearing the distant rumors of Sitecore 7.</p><img src="http://www.velir.com/blog/wp-content/uploads/2013/04/sitecorequickactions.gif"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2013/04/11/sitecore-7-an-insiders-look-into-new-features-and-functionality/</link>
-            <guid isPermaLink="false">e0a278af-a939-4985-8ece-d85e462d6499</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Quick Guide on Setting-up Branded Microsites in Sitecore]]></title>
-            <description><![CDATA[<article><h1>A Quick Guide on Setting-up Branded Microsites in Sitecore</h1><p>Many organizations utilize microsites to showcase specific products, services, or campaigns to targeted audiences in a more focused way than their larger flagship site. The development, configuration, and deployment of multiple microsites, however, can quickly become complex and unwieldy.</p></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2014/12/17/a-quick-guide-on-setting-up-branded-microsites-in-sitecore/</link>
-            <guid isPermaLink="false">a6d8ed02-18c3-4363-8099-6732249332b7</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coveo and Sitecore 7: What's New and Improved]]></title>
-            <description><![CDATA[<article><h1>Coveo and Sitecore 7: What's New and Improved</h1><img src="http://www.velir.com/blog/wp-content/uploads/2013/11/Coveo-Configuration-Panel.png"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2013/12/12/coveo-and-sitecore-7-whats-new-and-improved/</link>
-            <guid isPermaLink="false">3153a3b2-1d02-4609-8b94-364fac1c36fc</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
         </item>
     </channel>

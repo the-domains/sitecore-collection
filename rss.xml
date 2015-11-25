@@ -4,8 +4,15 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:57:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to the era of Context Marketing]]></title>
+            <description><![CDATA[<article><h1>Welcome to the era of Context Marketing</h1><p>By Michael Seifert, October 18, 2015 | | I enjoy the experience of buying a new product much more than actually receiving it. The timespan between desire and fulfillment reminds me of when I was a kid and could not wait to open my Christmas presents.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Business%20Blogs/MS108.ashx?ts=101715101112000&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/business-blogs/michael-seifert/posts/2015/10/contextmarketing.aspx</link>
+            <guid isPermaLink="false">7e8419f2-0127-4b34-bf4d-5f5948681a1b</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sitecore Multisite, Part 2: Authentication | John West | Sitecore Blog]]></title>
             <description><![CDATA[<article><h1>Sitecore Multisite, Part 2: Authentication | John West | Sitecore Blog</h1><p>This blog post contains information about using different technologies and authenticating different populations of users against separate sites managed by the Sitecore ASP.NET web Content Management System (CMS) and Customer Engagement Platform (CEP). This multisite challenge is not specific to Sitecore, but Sitecore provides some solutions.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.velir.com/blog/index.php/2015/06/25/the-art-of-the-sitecore-upgrade/</link>
             <guid isPermaLink="false">a217c8cc-e4f6-40d6-aad9-84970a8ac61a</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dynamic Item Paths in the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
-            <description><![CDATA[<article><h1>Dynamic Item Paths in the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, December 14, 2014 | | This blog posts describes a generic approach to creating paths and moving items based on metadata and other characteristics in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2014/12/dynamic-item-paths-in-the-sitecore-aspnet-cms.aspx</link>
-            <guid isPermaLink="false">df2eb037-82f5-44cf-8451-aec1f04b63c2</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

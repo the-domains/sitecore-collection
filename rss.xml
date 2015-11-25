@@ -4,8 +4,22 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:54:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dynamic Item Paths in the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Dynamic Item Paths in the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, December 14, 2014 | | This blog posts describes a generic approach to creating paths and moving items based on metadata and other characteristics in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2014/12/dynamic-item-paths-in-the-sitecore-aspnet-cms.aspx</link>
+            <guid isPermaLink="false">df2eb037-82f5-44cf-8451-aec1f04b63c2</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FCC caps 'excessive and egregious' prison telephone rates]]></title>
+            <description><![CDATA[<article><h1>FCC caps 'excessive and egregious' prison telephone rates</h1><p>Who are the criminals in this story? The FCC has acted to reduce what it calls "excessive rates and egregious fees" of up to $14 per minute charged by federal and state prisons. The commission notes that while contact between inmates and families reduces recidivism, "high inmate calling rates have made that contact unaffordable for many families, who often live in poverty."</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/4928x2896+0+0/resize/1200x705!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/3e190ce2d2a217a494939d1b1e5b9c36/202850101/464530790.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2015/10/23/fcc-caps-prison-telephone-rates/</link>
+            <guid isPermaLink="false">41839c50-97c6-4ed6-ad15-ac83cdc4cf38</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Select a Sitecore Partner]]></title>
             <description><![CDATA[<article><h1>How to Select a Sitecore Partner</h1><p>So you've decided to go with Sitecore as your website's CMS/platform. Unless you have the development chops in-house, you're going to need a certified Sitecore partner. Even companies with strong .NET developers on staff will need outside support for a Sitecore implementation.</p></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Sitecore Multisite, Part 0: Resource Index | John West | Sitecore Blog</h1><p>This blog post contains links to resources that contain information about managing multiple logical sites with individual instances of the Sitecore ASP.NET web Content Management System (CMS) and Customer Engagement Platform (CEP). You can load-balance any number of managed sites across any number of instances.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
             <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2013/10/sitecore-multisite-part-0-resource-index.aspx</link>
             <guid isPermaLink="false">d6f56fd2-6eba-481b-8ff5-3a782ffb7414</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Measuring Digital: Aligning High-Minded Goals with Website Realities]]></title>
-            <description><![CDATA[<article><h1>Measuring Digital: Aligning High-Minded Goals with Website Realities</h1><p>Digital marketing technology is evolving at a blistering pace. As organizations make significant investments to keep up, it's more important than ever to measure the progress and impact of your digital programs-and make sure they always tie back to your organization's goals and performance.</p></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2014/10/31/measuring-digital-aligning-high-minded-goals-with-website-realities/</link>
-            <guid isPermaLink="false">43dcd101-d701-44ff-a5b2-26514dcff1ce</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Connecting Online and Offline Behaviors with the Sitecore Experience Platform]]></title>
-            <description><![CDATA[<article><h1>Connecting Online and Offline Behaviors with the Sitecore Experience Platform</h1><p>As a digital agency, we've helped many of our clients overcome their digital marketing challenges with the help of the Sitecore Experience Platform. This is the first in a series of posts that explores real world examples of these solutions.</p><img src="http://www.velir.com/blog/wp-content/uploads/2014/04/Blog_Header_Image_dataviz-e1397690869746.png"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2015/03/24/connecting-online-and-offline-behaviors/</link>
-            <guid isPermaLink="false">644b16f3-74dc-47b0-baaf-be06a14a5fe0</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
         </item>
     </channel>

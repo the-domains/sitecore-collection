@@ -4,8 +4,29 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:53:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sitecore 7 - An Insider's Look into New Features and Functionality]]></title>
+            <description><![CDATA[<article><h1>Sitecore 7 - An Insider's Look into New Features and Functionality</h1><p>From the moment Sitecore 6 was released in 2008, developers and others in the Sitecore community have been hearing the distant rumors of Sitecore 7.</p><img src="http://www.velir.com/blog/wp-content/uploads/2013/04/sitecorequickactions.gif"></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2013/04/11/sitecore-7-an-insiders-look-into-new-features-and-functionality/</link>
+            <guid isPermaLink="false">e0a278af-a939-4985-8ece-d85e462d6499</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Quick Guide on Setting-up Branded Microsites in Sitecore]]></title>
+            <description><![CDATA[<article><h1>A Quick Guide on Setting-up Branded Microsites in Sitecore</h1><p>Many organizations utilize microsites to showcase specific products, services, or campaigns to targeted audiences in a more focused way than their larger flagship site. The development, configuration, and deployment of multiple microsites, however, can quickly become complex and unwieldy.</p></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2014/12/17/a-quick-guide-on-setting-up-branded-microsites-in-sitecore/</link>
+            <guid isPermaLink="false">a6d8ed02-18c3-4363-8099-6732249332b7</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coveo and Sitecore 7: What's New and Improved]]></title>
+            <description><![CDATA[<article><h1>Coveo and Sitecore 7: What's New and Improved</h1><img src="http://www.velir.com/blog/wp-content/uploads/2013/11/Coveo-Configuration-Panel.png"></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2013/12/12/coveo-and-sitecore-7-whats-new-and-improved/</link>
+            <guid isPermaLink="false">3153a3b2-1d02-4609-8b94-364fac1c36fc</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Create a Custom Publish Queue in Sitecore]]></title>
             <description><![CDATA[<article><h1>How to Create a Custom Publish Queue in Sitecore</h1><p>Welcome to the first entry in our new series: Specific Solutions for Uncommon Problems. The goal of this series is to present real-world issues that came up during web design and development projects and demonstrate our solutions to them, without attempting to generalize for a larger audience.</p><img src="http://0.gravatar.com/avatar/06e96f1b4bb17bda7223c3f0e94ac496?s=38&d=mm&r=g"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://www.engadget.com/2015/10/22/google-play-store-redesign-rolling-out/</link>
             <guid isPermaLink="false">a5133a47-75bc-4b75-a673-0184f6375959</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pandora signs $90 million truce with the recording industry]]></title>
-            <description><![CDATA[<article><h1>Pandora signs $90 million truce with the recording industry</h1><p>Thanks to a quirk of copyright law, songs recorded before February 15th, 1972 weren't covered at the federal level. It's a loophole of sorts that Pandora, amongst others, has exploited to play classic pre-1972 tracks without paying a cent to the record labels.</p><img src="http://o.aolcdn.com/hss/storage/midas/83561b9301120737950629a7c1441c3b/202850659/pandora.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2015/10/23/pandora-90-million-riaa/</link>
-            <guid isPermaLink="false">8ff99765-2c4a-4d55-a78c-c418fa5dd117</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Command Line for Sitecore]]></title>
-            <description><![CDATA[<article><h1>A Command Line for Sitecore</h1><p>Two scripting tools for Sitecore, Revolver and PowerShell Extensions, have the power to save significant developer time as demonstrated during the latest New England Sitecore User Group. This article summarizes key insights and takeaways gained during this meetup.</p><img src="http://www.velir.com/blog/wp-content/uploads/2013/09/group1.jpg"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2013/09/20/a-command-line-for-sitecore/</link>
-            <guid isPermaLink="false">b56b2838-3ded-44f9-a310-b1f128d056f1</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore Implementation Roles | Sitecore]]></title>
-            <description><![CDATA[<article><h1>Sitecore Implementation Roles | Sitecore</h1><p>This (intentionally short) blog post presents some of my perspectives on many of the roles involved in a Sitecore web Content Management System (CMS) and Experience Platform (XP) implementation. Any organization implementing CMS must consider not as a product selection process and solution implementation, but as an ongoing and essential program for the organization.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/06/sitecore-implementation-roles.aspx</link>
-            <guid isPermaLink="false">820fdc9d-1102-48a0-bd29-f2f14c1a3fb4</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,8 +4,15 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:51:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sitecore Multisite, Part 5: Workflows | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Sitecore Multisite, Part 5: Workflows | John West | Sitecore Blog</h1><p>This (short) blog post contains information about publishing workflow in solutions that manage multiple logical sites in a single instance of the Sitecore ASP.NET web Content Management System (CMS) and Customer Engagement Platform (CEP). The topics covered in this blog post are not specific to solutions that maintain multiple logical sites, but often become apparent in that context.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2013/10/sitecore-multisite-part-5-workflows.aspx</link>
+            <guid isPermaLink="false">acfbaf51-99f1-4c0f-b7e2-03dfaf535f91</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sitecore Standard Template Validators Section | Sitecore]]></title>
             <description><![CDATA[<article><h1>Sitecore Standard Template Validators Section | Sitecore</h1><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>

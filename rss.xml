@@ -4,7 +4,7 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 20:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 20:09:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Dyson's pricey robot vacuum is late for its Japanese debut]]></title>
-            <description><![CDATA[<article><h1>Why Dyson's pricey robot vacuum is late for its Japanese debut</h1><p>We warned that Dyson's first robot vacuum was going to put all that cyclone technology to use on your wallet's contents and we weren't wrong. After a hefty half-year delay, the 360 Eye robot vacuum goes on sale in Japan today priced at 138,000 yen -- before tax! That's around $1,150.</p><img src="http://o.aolcdn.com/hss/storage/midas/ea0a431032d88791972d48851efceb38/202850026/360.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2015/10/23/dyson-360-eye-price-delay/</link>
-            <guid isPermaLink="false">73c3bd68-5e12-4e16-acee-126187c1eb54</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Evaluating BrainJocks SCORE for the Sitecore ASP.NET CMS: Snippets | John West | Sitecore Blog]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Data Source Items vs Rendering Parameters in the Sitecore ASPNET CMS | Sitecore</h1><p>The Sitecore Developer Network (SDN) forum thread linked in the Resources section at the end of this page prompted me to write this blog post that attempts to describe some of the issues that developers should consider when deciding whether to use rendering parameters or data source items in the Sitecore ASP.NET web Content Management System (CMS).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
             <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/data-source-items-vs-rendering-parameters-in-the-sitecore-aspnet-cms.aspx</link>
             <guid isPermaLink="false">57ddf787-33aa-4514-be3e-f61b60ba9786</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sitecore Multisite, Part 3: CMS Cookies and Hostnames | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Sitecore Multisite, Part 3: CMS Cookies and Hostnames | John West | Sitecore Blog</h1><p>This blog post explains some issues that you may face due to the association of cookies with hostnames in the Sitecore ASP.NET web Content Management System (CMS) and Customer Engagement Platform (CEP). The issues described in this blog post are not completely specific to Sitecore (any solution using multiple hostnames would face these conditions).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2013/10/sitecore-multisite-part-3-cms-cookies-and-hostnames.aspx</link>
+            <guid isPermaLink="false">756d02dd-c0e0-4ae0-9777-9bd5a56318bf</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
         </item>
     </channel>

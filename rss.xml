@@ -4,13 +4,27 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 20:01:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 20:02:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
             <description><![CDATA[<article><h1>Sitecore Shifts Focus in 8.1 Release</h1><p>Sitecore just released version 8.1 of its Experience Platform. But this update to its flagship product is not, to coin a phrase, your father's dot release. New features suggest Sitecore is significantly shifting its approach to the market. For example: The Experience Platform is entirely context-focused now.</p><img src="http://www.cmswire.com/~/media/b14513a9e4d146d191d0b0d3ff7c7adb.jpeg"></article>]]></description>
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Halo 5: Guardians review]]></title>
+            <description><![CDATA[<article><h1>Halo 5: Guardians review</h1><p>Halo 5: Guardians has more weights around its neck than really seems fair. Many Halo fans still feel like the series' adoptive parents at 343 Industries have things to prove, that the developer has...</p><img src="https://cdn1.vox-cdn.com/thumbor/SJAB4DQQ0N6XKCryMs_BKiC5hdk=/cdn0.vox-cdn.com/uploads/chorus_asset/file/4196911/H5-Guardians-REQ-Collection-Weapons-01.0.jpg"></article>]]></description>
+            <link>http://www.polygon.com/2015/10/26/9553081/halo-5-guardians-review-xbox-one</link>
+            <guid isPermaLink="false">8bb0d2d1-ad87-4178-b1fb-ac6e71c18b59</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Use XSL to Visualize Layout Details in the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Use XSL to Visualize Layout Details in the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, December 30, 2014 | | This blog post provides prototype XSL that renders layout details for an item in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP) as HTML.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2014/12/use-xsl-to-visualize-layout-details-in-the-sitecore-aspnet-cms.aspx</link>
+            <guid isPermaLink="false">3f4dd338-fbc7-4613-88c4-25f1b087eede</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
         </item>
         <item>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Align Your Company Around Digital Experience</h1><p>By Mark Floisand, November 18, 2015 | | This article was originally published on CMSWire. Every day, the need for a cohesive digital strategy gets more and more vital. And every day, mapping out the digital experience gets more complex.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Business%20Blogs/Mark%20Floisand/Mark%20Floisand-640x959.ashx?ts=080414032055160&h=108&la=en&w=108"></article>]]></description>
             <link>http://www.sitecore.net/learn/blogs/business-blogs/mark-floisand/posts/2015/11/dxalignment.aspx</link>
             <guid isPermaLink="false">74a7b6f0-16bc-40ef-93df-bba124d68092</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Silverman's Best and Brightest presented by CarMax: Patriots-Dolphins 10/29]]></title>
-            <description><![CDATA[<article><h1>Silverman's Best and Brightest presented by CarMax: Patriots-Dolphins 10/29</h1><p>Team photographer, David Silverman, offers his best photos from the Patriots game against the Miami Dolphins at Gillette Stadium on Thursday, October 29, 2015.</p><img src="http://www.patriots.com/sites/patriots.com/files/styles/open_graph__large/public/_gallery_photos/20151029_dsp_dolphins_0473_0.jpg?itok=AKtISyUf&timestamp=1446311224"></article>]]></description>
-            <link>http://www.patriots.com/galleries/2015/10/31/silvermans-best-and-brightest-presented-carmax-patriots-dolphins-1029</link>
-            <guid isPermaLink="false">626b40d4-9986-4ff6-baf7-fc060d43595e</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hide Items without Versions from the Content Tree in the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
-            <description><![CDATA[<article><h1>Hide Items without Versions from the Content Tree in the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>This blog post explains an approach that you can use to hide items without versions in the current content language from the content tree in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/03/hide-items-without-versions-from-the-content-tree-in-the-sitecore-aspnet-cms.aspx</link>
-            <guid isPermaLink="false">5af963dc-30d0-4c68-9a08-ce9ed6ab4ad9</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
         </item>
     </channel>

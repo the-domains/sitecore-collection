@@ -4,8 +4,15 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:55:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Select a Sitecore Partner]]></title>
+            <description><![CDATA[<article><h1>How to Select a Sitecore Partner</h1><p>So you've decided to go with Sitecore as your website's CMS/platform. Unless you have the development chops in-house, you're going to need a certified Sitecore partner. Even companies with strong .NET developers on staff will need outside support for a Sitecore implementation.</p></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2015/02/12/tips-on-how-to-select-a-sitecore-partner/</link>
+            <guid isPermaLink="false">eb7ad6e2-140c-4f9b-a9f5-a9ced1e7280a</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Get an explosive taste of the 'Doom' multiplayer mode]]></title>
             <description><![CDATA[<article><h1>Get an explosive taste of the 'Doom' multiplayer mode</h1><p>This is a test</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1920x1080+0+0/resize/1200x675!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/6fef0931fa36e648cf073272cc619a9c/202849013/doom.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How to Create a Custom Publish Queue in Sitecore</h1><p>Welcome to the first entry in our new series: Specific Solutions for Uncommon Problems. The goal of this series is to present real-world issues that came up during web design and development projects and demonstrate our solutions to them, without attempting to generalize for a larger audience.</p><img src="http://0.gravatar.com/avatar/06e96f1b4bb17bda7223c3f0e94ac496?s=38&d=mm&r=g"></article>]]></description>
             <link>http://www.velir.com/blog/index.php/2013/11/22/how-to-create-a-custom-publish-queue-in-sitecore/</link>
             <guid isPermaLink="false">bf26973d-a6fc-4f0c-bd6d-707aa16681fb</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Web Implementation & Integration]]></title>
-            <description><![CDATA[<article><h1>Web Implementation & Integration</h1><p>Not too long ago (prior to Sitecore 7.5) we had a requirement to add the ability to sort Sitecore items by Most Viewed and Most Shared. We got to thinking about what was the best way to implement something like this. In the past we may have created a custom database to track this information.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Technical%20Blogs/Blogger%20Pics/MikeSkutta_108px.ashx?ts=032715104717867&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/mike-skutta/posts/2015/05/sorting-sitecore-items-by-popularity-using-google-analytics.aspx</link>
-            <guid isPermaLink="false">2048060c-6c90-46ef-b7d7-aaaf75ef0b30</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
         </item>
     </channel>

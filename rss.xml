@@ -4,8 +4,29 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:52:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google's cheapest Nexus phone is easy to fix, too]]></title>
+            <description><![CDATA[<article><h1>Google's cheapest Nexus phone is easy to fix, too</h1><p>It turns out that the cheaper of Google's two new Nexus Marshmallow devices, LG's Nexus 5X, is a cinch to repair, according to . The 5.2-inch, $379 device can be taken apart with a Philips screwdriver, and many of the parts are then user replaceable, including the " Imprint" fingerprint sensor, camera and battery.</p><img src="http://o.aolcdn.com/hss/storage/midas/aeea1614d0ea93d142ce08ceebff63a0/202851316/nexus5x-teardown-2015-10-23-01.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2015/10/23/ifixit-nexus5x-teardown/</link>
+            <guid isPermaLink="false">70140afd-e87e-49e7-8a0e-e0cf2cc6c143</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sitecore Multisite, Part 0: Resource Index | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Sitecore Multisite, Part 0: Resource Index | John West | Sitecore Blog</h1><p>This blog post contains links to resources that contain information about managing multiple logical sites with individual instances of the Sitecore ASP.NET web Content Management System (CMS) and Customer Engagement Platform (CEP). You can load-balance any number of managed sites across any number of instances.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2013/10/sitecore-multisite-part-0-resource-index.aspx</link>
+            <guid isPermaLink="false">d6f56fd2-6eba-481b-8ff5-3a782ffb7414</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measuring Digital: Aligning High-Minded Goals with Website Realities]]></title>
+            <description><![CDATA[<article><h1>Measuring Digital: Aligning High-Minded Goals with Website Realities</h1><p>Digital marketing technology is evolving at a blistering pace. As organizations make significant investments to keep up, it's more important than ever to measure the progress and impact of your digital programs-and make sure they always tie back to your organization's goals and performance.</p></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2014/10/31/measuring-digital-aligning-high-minded-goals-with-website-realities/</link>
+            <guid isPermaLink="false">43dcd101-d701-44ff-a5b2-26514dcff1ce</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Connecting Online and Offline Behaviors with the Sitecore Experience Platform]]></title>
             <description><![CDATA[<article><h1>Connecting Online and Offline Behaviors with the Sitecore Experience Platform</h1><p>As a digital agency, we've helped many of our clients overcome their digital marketing challenges with the help of the Sitecore Experience Platform. This is the first in a series of posts that explores real world examples of these solutions.</p><img src="http://www.velir.com/blog/wp-content/uploads/2014/04/Blog_Header_Image_dataviz-e1397690869746.png"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>External Link Validation with the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, February 06, 2015 | | This blog post describes a prototype for validating external links in Rich Text fields with the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP). This field validator uses HtmlAgilityPack to retrieve the href attribute of elements in the field value, and then uses WebRequest.Create() to place HEAD requests for those URLs.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
             <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/02/external-link-validation-with-the-sitecore-aspnet-cms.aspx</link>
             <guid isPermaLink="false">6aaf446b-4463-4b5e-b7dc-98d527b95718</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The latest Tweets from Sitecore (@Sitecore). Sitecore empowers marketers to deliver content in context of how customers have engaged with their brand, across every channel, in real time</p>]]></description>
-            <link>https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiW5cLc7KvJAhUKOD4KHez6AoUQ6F4IMTAC&amp;url=https%3A%2F%2Ftwitter.com%2FSitecore%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&amp;usg=AFQjCNFvVUoLgyAJyHC64z5U-pTqSSBelQ&amp;sig2=h9ehhYNt0UCXyU8wK_LkxA</link>
-            <guid isPermaLink="false">fc6260f2-1bdd-4af5-9f10-94f51d23bf18</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore Multisite, Part 5: Workflows | John West | Sitecore Blog]]></title>
-            <description><![CDATA[<article><h1>Sitecore Multisite, Part 5: Workflows | John West | Sitecore Blog</h1><p>This (short) blog post contains information about publishing workflow in solutions that manage multiple logical sites in a single instance of the Sitecore ASP.NET web Content Management System (CMS) and Customer Engagement Platform (CEP). The topics covered in this blog post are not specific to solutions that maintain multiple logical sites, but often become apparent in that context.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2013/10/sitecore-multisite-part-5-workflows.aspx</link>
-            <guid isPermaLink="false">acfbaf51-99f1-4c0f-b7e2-03dfaf535f91</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore Standard Template Validators Section | Sitecore]]></title>
-            <description><![CDATA[<article><h1>Sitecore Standard Template Validators Section | Sitecore</h1><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/sitecore-standard-template-validators-section.aspx</link>
-            <guid isPermaLink="false">c2aa3254-6220-43c1-a308-ea27ef45629a</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:11 GMT</pubDate>
         </item>
     </channel>

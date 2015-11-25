@@ -4,8 +4,29 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:59:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Customers Don't Buy Products, They Buy Outcomes]]></title>
+            <description><![CDATA[<article><h1>Customers Don't Buy Products, They Buy Outcomes</h1><p>By Darren Guarnaccia, November 20, 2015 | | Customer experience is a series of interactions that bring someone to the outcome they want. Product doesn't always take center stage. I've said it in front of audiences worldwide, and heads start nodding immediately in agreement: "Customers don't buy products, they buy outcomes."</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Company/Who%20We%20Are/Corporate/Darren%20Guarnaccia.ashx?ts=020812101557970&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/business-blogs/industry-insight/posts/2015/11/cxoutcomes.aspx</link>
+            <guid isPermaLink="false">e1853eeb-23bc-4db1-9f8a-ab7b0f02611d</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Align Your Company Around Digital Experience]]></title>
+            <description><![CDATA[<article><h1>Align Your Company Around Digital Experience</h1><p>By Mark Floisand, November 18, 2015 | | This article was originally published on CMSWire. Every day, the need for a cohesive digital strategy gets more and more vital. And every day, mapping out the digital experience gets more complex.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Business%20Blogs/Mark%20Floisand/Mark%20Floisand-640x959.ashx?ts=080414032055160&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/business-blogs/mark-floisand/posts/2015/11/dxalignment.aspx</link>
+            <guid isPermaLink="false">74a7b6f0-16bc-40ef-93df-bba124d68092</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Silverman's Best and Brightest presented by CarMax: Patriots-Dolphins 10/29]]></title>
+            <description><![CDATA[<article><h1>Silverman's Best and Brightest presented by CarMax: Patriots-Dolphins 10/29</h1><p>Team photographer, David Silverman, offers his best photos from the Patriots game against the Miami Dolphins at Gillette Stadium on Thursday, October 29, 2015.</p><img src="http://www.patriots.com/sites/patriots.com/files/styles/open_graph__large/public/_gallery_photos/20151029_dsp_dolphins_0473_0.jpg?itok=AKtISyUf&timestamp=1446311224"></article>]]></description>
+            <link>http://www.patriots.com/galleries/2015/10/31/silvermans-best-and-brightest-presented-carmax-patriots-dolphins-1029</link>
+            <guid isPermaLink="false">626b40d4-9986-4ff6-baf7-fc060d43595e</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hide Items without Versions from the Content Tree in the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
             <description><![CDATA[<article><h1>Hide Items without Versions from the Content Tree in the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>This blog post explains an approach that you can use to hide items without versions in the current content language from the content tree in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Sitecore Requirements and Recommendations for Mongo in Content Delivery | John West | Sitecore Blog</h1><p>By John West, November 25, 2014 | | This blog post contains requirements and recommendations for configuring Mongo for the xDB (Experience Database) in the content delivery environment and for managing session data in the content management and content delivery environments.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
             <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2014/11/sitecore-requirements-and-recommendations-for-mongo-in-content-delivery.aspx</link>
             <guid isPermaLink="false">42ab73d2-2908-4fb7-8b2a-9260e59cfcd3</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Evaluating BrainJocks SCORE for the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
-            <description><![CDATA[<article><h1>Evaluating BrainJocks SCORE for the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>By John West, February 18, 2015 | | I intend for this to be the first in a series of blog posts describing my evaluation of BrainJocks SCORE for the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP). BrainJocks is a Sitecore partner with two MVPs on staff.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/02/evaluating-brainjocks-score-for-the-sitecore-aspnet-cms.aspx</link>
-            <guid isPermaLink="false">008f6bcc-7587-4564-bf53-b17ca7cb0ee4</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore Standard Template Tasks Section | Sitecore]]></title>
-            <description><![CDATA[<article><h1>Sitecore Standard Template Tasks Section | Sitecore</h1><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/sitecore-standard-template-tasks-section.aspx</link>
-            <guid isPermaLink="false">fa9618cc-4ddc-4ac3-aa2e-b60f23484205</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Select a Sitecore Partner]]></title>
-            <description><![CDATA[<article><h1>How to Select a Sitecore Partner</h1><p>So you've decided to go with Sitecore as your website's CMS/platform. Unless you have the development chops in-house, you're going to need a certified Sitecore partner. Even companies with strong .NET developers on staff will need outside support for a Sitecore implementation.</p></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2015/02/12/tips-on-how-to-select-a-sitecore-partner/</link>
-            <guid isPermaLink="false">eb7ad6e2-140c-4f9b-a9f5-a9ced1e7280a</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
         </item>
     </channel>

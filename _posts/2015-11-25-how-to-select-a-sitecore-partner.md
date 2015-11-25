@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.velir.com/blog/index.php/2015/02/12/tips-on-how-to-select-a-sitecore-partner/'
 title: How to Select a Sitecore Partner
-datePublished: '2015-11-25T19:50:13.895Z'
-dateModified: '2015-11-25T14:14:30.008Z'
+datePublished: '2015-11-25T19:50:14.051Z'
+dateModified: '2015-11-25T14:14:30.070Z'
 sourcePath: _posts/2015-11-25-how-to-select-a-sitecore-partner.md
 published: true
 inFeed: true

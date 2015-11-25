@@ -4,8 +4,15 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:58:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 19:58:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hide Items without Versions from the Content Tree in the Sitecore ASP.NET CMS | John West | Sitecore Blog]]></title>
+            <description><![CDATA[<article><h1>Hide Items without Versions from the Content Tree in the Sitecore ASP.NET CMS | John West | Sitecore Blog</h1><p>This blog post explains an approach that you can use to hide items without versions in the current content language from the content tree in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP).</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
+            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/03/hide-items-without-versions-from-the-content-tree-in-the-sitecore-aspnet-cms.aspx</link>
+            <guid isPermaLink="false">5af963dc-30d0-4c68-9a08-ce9ed6ab4ad9</guid>
+            <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The problem with 'pumpkin spice' security bugs]]></title>
             <description><![CDATA[<article><h1>The problem with 'pumpkin spice' security bugs</h1><p>Bad Password is a hacking and security column by Violet Blue. Every week she'll be exploring the trendy new cyberhysteria, the state of the infosec community and the ever-eroding thing that used to be called "privacy." Bad Password cuts through the greed, fear mongering and jargon with expertise, a friendly voice and a little level-headed perspective.</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/2100x1325+0+0/resize/1200x757!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/d57ce6b59162dc7262fa93271dff6b70/202847739/22358196081_b44d143019.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.velir.com/blog/index.php/2015/02/12/tips-on-how-to-select-a-sitecore-partner/</link>
             <guid isPermaLink="false">eb7ad6e2-140c-4f9b-a9f5-a9ced1e7280a</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get an explosive taste of the 'Doom' multiplayer mode]]></title>
-            <description><![CDATA[<article><h1>Get an explosive taste of the 'Doom' multiplayer mode</h1><p>This is a test</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1920x1080+0+0/resize/1200x675!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/6fef0931fa36e648cf073272cc619a9c/202849013/doom.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2015/10/22/doom-closed-alpha-multiplayer-footage/</link>
-            <guid isPermaLink="false">7677142b-32bf-4305-90d4-ab289ce355a5</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

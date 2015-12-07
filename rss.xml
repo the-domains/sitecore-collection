@@ -4,7 +4,7 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 20:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Dec 2015 20:20:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
@@ -53,13 +53,6 @@
             <description><![CDATA[<article><h1>Sitecore DMS: Optimizing Conversions with Multivariate A/B Tests</h1><p>Sitecore's Digital Marketing System (DMS) - part of the Sitecore Customer Engagement Platform (CEP) - enables marketers to create targeted and optimized campaigns with minimal effort. This article provides some very simple steps to start realizing the power of Sitecore DMS by increasing conversions on your website.</p><img src="http://www.velir.com/blog/wp-content/uploads/2013/04/velir-abtest.png"></article>]]></description>
             <link>http://www.velir.com/blog/index.php/2013/04/17/sitecore-dms-optimizing-conversions-with-multivariate-ab-tests/</link>
             <guid isPermaLink="false">1b2c0afd-4171-4c4d-97d7-7975083ee1e4</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore Standard Template Statistics | Sitecore]]></title>
-            <description><![CDATA[<article><h1>Sitecore Standard Template Statistics | Sitecore</h1><p>This blog post contains information about the fields in the Statistics section of the standard template in the Sitecore ASP.NET web Content Management System (CMS) and Experience Platform (XP). For more information about the standard template and topics mentioned in this blog post, see the links in the Resources section at the end of this page.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/sitecore-standard-template-statistics.aspx</link>
-            <guid isPermaLink="false">7f2d9fe6-ced7-4333-a391-566d3641a5ad</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
         </item>
         <item>

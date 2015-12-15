@@ -1,4 +1,19 @@
-analytics: {}
+name: Sitecore Collection
+favicon: null
+layout_spectrum: 0.60283
+typography_spectrum: 0.110197
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -6,13 +21,8 @@ color:
     - '#888068'
     - '#B04838'
     - '#F8A070'
-  brandStrength: 0.137335
+  brandStrength: 0.6875
   lightness: 0.925164
-  rhythmicContrast: 0.825657
   saturation: 0.272203
-cta: {}
-layout_spectrum: 0.789473
-name: Sitecore Collection
-opengraph: {}
+  rhythmicContrast: 0.825657
 purpose: []
-typography_spectrum: 0.110197

@@ -4,22 +4,8 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 18:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 18:21:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Sitecore 7 - An Insider's Look into New Features and Functionality]]></title>
-            <description><![CDATA[<article><h1>Sitecore 7 - An Insider's Look into New Features and Functionality</h1><p>From the moment Sitecore 6 was released in 2008, developers and others in the Sitecore community have been hearing the distant rumors of Sitecore 7.</p><img src="http://www.velir.com/blog/wp-content/uploads/2013/04/sitecorequickactions.gif"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2013/04/11/sitecore-7-an-insiders-look-into-new-features-and-functionality/</link>
-            <guid isPermaLink="false">e0a278af-a939-4985-8ece-d85e462d6499</guid>
-            <pubDate>Tue, 15 Dec 2015 18:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Sitecore Field Suite's General Links Field]]></title>
-            <description><![CDATA[<article><h1>The Sitecore Field Suite's General Links Field</h1><p>Field Suite I built the Sitecore Field Suite module a few months back to provide Sitecore users a more streamlined and informational approach to content authoring. The new Field Suite Module creates a new authoring experience with tooltips to view an item's path, in-line editing of referenced items, and visual indicators to let content authors know if their item and its referenced items are published.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec38fb56b5b35de005083d8c23b8c04fc35cbaeb.jpg"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2013/01/15/field-suites-general-links-field/</link>
-            <guid isPermaLink="false">6487cf50-20fe-455a-8186-e3aaff96dc1e</guid>
-            <pubDate>Tue, 15 Dec 2015 18:15:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Sitecore DMS: Optimizing Conversions with Multivariate A/B Tests]]></title>
             <description><![CDATA[<article><h1>Sitecore DMS: Optimizing Conversions with Multivariate A/B Tests</h1><p>Sitecore's Digital Marketing System (DMS) - part of the Sitecore Customer Engagement Platform (CEP) - enables marketers to create targeted and optimized campaigns with minimal effort. This article provides some very simple steps to start realizing the power of Sitecore DMS by increasing conversions on your website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2e5e3f957a7e1b3c833b56ae5d7c294ad3d4482.png"></article>]]></description>

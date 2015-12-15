@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.velir.com/blog/index.php/2013/01/15/field-suites-general-links-field/'
 title: "The Sitecore Field Suite's General Links Field"
-datePublished: '2015-11-25T19:50:17.007Z'
-dateModified: '2015-11-25T14:14:01.097Z'
+datePublished: '2015-12-15T18:15:47.480Z'
+dateModified: '2015-11-25T19:50:17.007Z'
 sourcePath: _posts/2015-11-25-the-sitecore-field-suites-general-links-field.md
 published: true
 inFeed: true

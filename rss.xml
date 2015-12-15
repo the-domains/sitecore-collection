@@ -4,35 +4,28 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 20:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 18:09:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
-            <description><![CDATA[<article><h1>Sitecore Shifts Focus in 8.1 Release</h1><p>Sitecore just released version 8.1 of its Experience Platform. But this update to its flagship product is not, to coin a phrase, your father's dot release. New features suggest Sitecore is significantly shifting its approach to the market. For example: The Experience Platform is entirely context-focused now.</p><img src="http://www.cmswire.com/~/media/b14513a9e4d146d191d0b0d3ff7c7adb.jpeg"></article>]]></description>
+            <description><![CDATA[<article><h1>Sitecore Shifts Focus in 8.1 Release</h1><p>Sitecore just released version 8.1 of its Experience Platform. But this update to its flagship product is not, to coin a phrase, your father's dot release. New features suggest Sitecore is significantly shifting its approach to the market. For example: The Experience Platform is entirely context-focused now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6e2caeb236acf5e8c28260b0da38e0b26e27d55.jpg"></article>]]></description>
             <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
             <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Evan]]></title>
+            <description><![CDATA[<article><h1>Evan</h1><p>Little man asleep...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d80c0246a201998bb8d95cf0c4182836d20753e5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sitecore-collection/evan/index.html</link>
+            <guid isPermaLink="false">1db2425b-e604-47b4-97f9-54b1f96023bd</guid>
+            <pubDate>Thu, 10 Dec 2015 18:20:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Dyson's pricey robot vacuum is late for its Japanese debut]]></title>
-            <description><![CDATA[<article><h1>Why Dyson's pricey robot vacuum is late for its Japanese debut</h1><p>We warned that Dyson's first robot vacuum was going to put all that cyclone technology to use on your wallet's contents and we weren't wrong. After a hefty half-year delay, the 360 Eye robot vacuum goes on sale in Japan today priced at 138,000 yen -- before tax! That's around $1,150.</p><img src="http://o.aolcdn.com/hss/storage/midas/ea0a431032d88791972d48851efceb38/202850026/360.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Why Dyson's pricey robot vacuum is late for its Japanese debut</h1><p>We warned that Dyson's first robot vacuum was going to put all that cyclone technology to use on your wallet's contents and we weren't wrong. After a hefty half-year delay, the 360 Eye robot vacuum goes on sale in Japan today priced at 138,000 yen -- before tax! That's around $1,150.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c008366c0325496c4e5f2d6fe12efa4290ded07c.jpg"></article>]]></description>
             <link>http://www.engadget.com/2015/10/23/dyson-360-eye-price-delay/</link>
             <guid isPermaLink="false">73c3bd68-5e12-4e16-acee-126187c1eb54</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sitecore Standard Template Workflow Section | Sitecore]]></title>
-            <description><![CDATA[<article><h1>Sitecore Standard Template Workflow Section | Sitecore</h1><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Author%20Profiles/John%20West.ashx?ts=111210080949292&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2015/05/sitecore-standard-template-workflow-section.aspx</link>
-            <guid isPermaLink="false">dd950cff-9538-4342-857a-8e3c310ed65c</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DataEverywhere | Sitecore]]></title>
-            <description><![CDATA[<article><h1>DataEverywhere | Sitecore</h1><p>By Charlotte Ziems, October 22, 2015 | | Right this second, at many businesses, a ton of customer data is sitting stagnant and powerless in siloed databases. Sales contact data in CRM systems, customer support data in ticketing system databases.</p><img src="http://dijaxps1e29ue.cloudfront.net/~/media/Community/Business%20Blogs/Charlotte%20Ziems.ashx?ts=102115095736000&h=108&la=en&w=108"></article>]]></description>
-            <link>http://www.sitecore.net/learn/blogs/business-blogs/charlotte-ziems/posts/2015/10/dataeverywhere.aspx</link>
-            <guid isPermaLink="false">c8bce382-fbac-4cd9-86a4-a0670dae7471</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FCC will publish telemarketer phone numbers to help you block them]]></title>
@@ -43,14 +36,14 @@
         </item>
         <item>
             <title><![CDATA[Sitecore DMS: Optimizing Conversions with Multivariate A/B Tests]]></title>
-            <description><![CDATA[<article><h1>Sitecore DMS: Optimizing Conversions with Multivariate A/B Tests</h1><p>Sitecore's Digital Marketing System (DMS) - part of the Sitecore Customer Engagement Platform (CEP) - enables marketers to create targeted and optimized campaigns with minimal effort. This article provides some very simple steps to start realizing the power of Sitecore DMS by increasing conversions on your website.</p><img src="http://www.velir.com/blog/wp-content/uploads/2013/04/velir-abtest.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Sitecore DMS: Optimizing Conversions with Multivariate A/B Tests</h1><p>Sitecore's Digital Marketing System (DMS) - part of the Sitecore Customer Engagement Platform (CEP) - enables marketers to create targeted and optimized campaigns with minimal effort. This article provides some very simple steps to start realizing the power of Sitecore DMS by increasing conversions on your website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81b0c04d42e1fd279d16845d14b352310969c26a.png"></article>]]></description>
             <link>http://www.velir.com/blog/index.php/2013/04/17/sitecore-dms-optimizing-conversions-with-multivariate-ab-tests/</link>
             <guid isPermaLink="false">1b2c0afd-4171-4c4d-97d7-7975083ee1e4</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Keep your Sitecore Solution Running Smoothly]]></title>
-            <description><![CDATA[<article><h1>How to Keep your Sitecore Solution Running Smoothly</h1><p>Over many years at the forefront of Sitecore development, we have noticed a common factor in every Sitecore solution that we've encountered: there is always room for improvement. It is no big secret that a well-managed website should evolve as new business challenges are introduced, and as new web capabilities emerge such as responsive design and dynamic personalization.</p><img src="http://www.velir.com/blog/wp-content/uploads/2014/04/Blog_Header_Image_strategy-e1397685071767.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How to Keep your Sitecore Solution Running Smoothly</h1><p>Over many years at the forefront of Sitecore development, we have noticed a common factor in every Sitecore solution that we've encountered: there is always room for improvement. It is no big secret that a well-managed website should evolve as new business challenges are introduced, and as new web capabilities emerge such as responsive design and dynamic personalization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f498ef91cbfdd9fb86ade803a187246911018f85.png"></article>]]></description>
             <link>http://www.velir.com/blog/index.php/2013/05/06/how-to-keep-your-sitecore-solution-running-smoothly/</link>
             <guid isPermaLink="false">0ea9b73e-3123-402b-af04-ede89fe0b17d</guid>
             <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>

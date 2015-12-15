@@ -32,8 +32,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.velir.com/blog/index.php/2013/04/11/sitecore-7-an-insiders-look-into-new-features-and-functionality/'
 title: "Sitecore 7 - An Insider's Look into New Features and Functionality"
-datePublished: '2015-11-25T19:50:13.844Z'
-dateModified: '2015-11-25T14:14:01.586Z'
+datePublished: '2015-12-15T18:15:47.668Z'
+dateModified: '2015-11-25T19:50:13.844Z'
 sourcePath: _posts/2015-11-25-sitecore-7-an-insiders-look-into-new-features-and-functio.md
 published: true
 inFeed: true

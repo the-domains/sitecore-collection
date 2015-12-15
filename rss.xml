@@ -4,42 +4,21 @@
         <description><![CDATA[Sitecore Collection]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 18:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 18:21:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Sitecore Shifts Focus in 8.1 Release]]></title>
-            <description><![CDATA[<article><h1>Sitecore Shifts Focus in 8.1 Release</h1><p>Sitecore just released version 8.1 of its Experience Platform. But this update to its flagship product is not, to coin a phrase, your father's dot release. New features suggest Sitecore is significantly shifting its approach to the market. For example: The Experience Platform is entirely context-focused now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6e2caeb236acf5e8c28260b0da38e0b26e27d55.jpg"></article>]]></description>
-            <link>http://www.cmswire.com/digital-experience/sitecore-shifts-focus-in-81-release/</link>
-            <guid isPermaLink="false">f63e3106-eb91-408d-898f-325d5aabde22</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Dyson's pricey robot vacuum is late for its Japanese debut]]></title>
-            <description><![CDATA[<article><h1>Why Dyson's pricey robot vacuum is late for its Japanese debut</h1><p>We warned that Dyson's first robot vacuum was going to put all that cyclone technology to use on your wallet's contents and we weren't wrong. After a hefty half-year delay, the 360 Eye robot vacuum goes on sale in Japan today priced at 138,000 yen -- before tax! That's around $1,150.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c008366c0325496c4e5f2d6fe12efa4290ded07c.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2015/10/23/dyson-360-eye-price-delay/</link>
-            <guid isPermaLink="false">73c3bd68-5e12-4e16-acee-126187c1eb54</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FCC will publish telemarketer phone numbers to help you block them]]></title>
-            <description><![CDATA[<article><h1>FCC will publish telemarketer phone numbers to help you block them</h1><p>The Federal Communications Commission has said that protecting consumer privacy is one of its biggest priorities, and its latest actions prove just that. The communications bureau is going to publish the phone numbers of telemarketers on a weekly basis in an effort to help you preemptively block those annoying calls saying you've won a cruise or some other outlandish claim that might require forking over your credit card info.</p><img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/2122x1663+0+0/resize/1200x940!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/b3e42836f7932f3496f1ecf3dc40e524/53036.JPG"></article>]]></description>
-            <link>http://www.engadget.com/2015/10/22/fcc-publish-robocall-numbers/</link>
-            <guid isPermaLink="false">0c6070ca-b556-4745-a58c-d74ed89bb41f</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
+            <title><![CDATA[The Sitecore Field Suite's General Links Field]]></title>
+            <description><![CDATA[<article><h1>The Sitecore Field Suite's General Links Field</h1><p>Field Suite I built the Sitecore Field Suite module a few months back to provide Sitecore users a more streamlined and informational approach to content authoring. The new Field Suite Module creates a new authoring experience with tooltips to view an item's path, in-line editing of referenced items, and visual indicators to let content authors know if their item and its referenced items are published.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec38fb56b5b35de005083d8c23b8c04fc35cbaeb.jpg"></article>]]></description>
+            <link>http://www.velir.com/blog/index.php/2013/01/15/field-suites-general-links-field/</link>
+            <guid isPermaLink="false">6487cf50-20fe-455a-8186-e3aaff96dc1e</guid>
+            <pubDate>Tue, 15 Dec 2015 18:15:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sitecore DMS: Optimizing Conversions with Multivariate A/B Tests]]></title>
-            <description><![CDATA[<article><h1>Sitecore DMS: Optimizing Conversions with Multivariate A/B Tests</h1><p>Sitecore's Digital Marketing System (DMS) - part of the Sitecore Customer Engagement Platform (CEP) - enables marketers to create targeted and optimized campaigns with minimal effort. This article provides some very simple steps to start realizing the power of Sitecore DMS by increasing conversions on your website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81b0c04d42e1fd279d16845d14b352310969c26a.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Sitecore DMS: Optimizing Conversions with Multivariate A/B Tests</h1><p>Sitecore's Digital Marketing System (DMS) - part of the Sitecore Customer Engagement Platform (CEP) - enables marketers to create targeted and optimized campaigns with minimal effort. This article provides some very simple steps to start realizing the power of Sitecore DMS by increasing conversions on your website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2e5e3f957a7e1b3c833b56ae5d7c294ad3d4482.png"></article>]]></description>
             <link>http://www.velir.com/blog/index.php/2013/04/17/sitecore-dms-optimizing-conversions-with-multivariate-ab-tests/</link>
             <guid isPermaLink="false">1b2c0afd-4171-4c4d-97d7-7975083ee1e4</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Keep your Sitecore Solution Running Smoothly]]></title>
-            <description><![CDATA[<article><h1>How to Keep your Sitecore Solution Running Smoothly</h1><p>Over many years at the forefront of Sitecore development, we have noticed a common factor in every Sitecore solution that we've encountered: there is always room for improvement. It is no big secret that a well-managed website should evolve as new business challenges are introduced, and as new web capabilities emerge such as responsive design and dynamic personalization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f498ef91cbfdd9fb86ade803a187246911018f85.png"></article>]]></description>
-            <link>http://www.velir.com/blog/index.php/2013/05/06/how-to-keep-your-sitecore-solution-running-smoothly/</link>
-            <guid isPermaLink="false">0ea9b73e-3123-402b-af04-ede89fe0b17d</guid>
-            <pubDate>Wed, 25 Nov 2015 19:50:17 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 18:15:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

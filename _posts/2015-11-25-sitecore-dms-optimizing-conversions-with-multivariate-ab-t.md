@@ -39,8 +39,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.velir.com/blog/index.php/2013/04/17/sitecore-dms-optimizing-conversions-with-multivariate-ab-tests/'
 title: 'Sitecore DMS: Optimizing Conversions with Multivariate A/B Tests'
-datePublished: '2015-11-25T19:50:17.395Z'
-dateModified: '2015-11-25T14:14:01.236Z'
+datePublished: '2015-12-15T18:15:47.489Z'
+dateModified: '2015-11-25T19:50:17.395Z'
 sourcePath: _posts/2015-11-25-sitecore-dms-optimizing-conversions-with-multivariate-ab-t.md
 published: true
 inFeed: true

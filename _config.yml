@@ -1,6 +1,6 @@
 name: Sitecore Collection
 favicon: null
-layout_spectrum: 0.608552
+layout_spectrum: 0.56744
 typography_spectrum: 0.62837
 title: And other stuff to check out how the Grid is progressing...
 cta:
@@ -22,8 +22,8 @@ color:
     - '#888068'
     - '#B04838'
     - '#F8A070'
-  brandStrength: 0.6875
-  lightness: 0.925164
-  saturation: 0.272203
-  rhythmicContrast: 0.825657
+  brandStrength: 0.8125
+  lightness: 0.6875
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []

@@ -4,13 +4,20 @@
         <description><![CDATA[And other stuff to check out how the Grid is progressing...]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 15:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 15:14:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[6 Content Management Resolutions for 2016]]></title>
             <description><![CDATA[<article><h1>6 Content Management Resolutions for 2016</h1><p>It is that time of year again. Everyone gets very excited about what the year has in store and we all think about what could have been last year if only we did a few things differently. As we all have been reading, these are mostly health and wellness related, spend more time with the family, or spend more time of a hobby.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4aa99bfe4aa0c0a19b53befb3ae766ae96097031.jpg"></article>]]></description>
             <link>https://www.linkedin.com/pulse/6-content-management-resolutions-2016-chris-brady?trk=prof-post</link>
             <guid isPermaLink="false">e776f589-86d2-4701-a156-bd8000ef1033</guid>
+            <pubDate>Fri, 15 Jan 2016 15:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PSA: Apple hasn't fixed the Gatekeeper vulnerability, only blocked specific apps using it]]></title>
+            <description><![CDATA[<article><h1>PSA: Apple hasn't fixed the Gatekeeper vulnerability, only blocked specific apps using it</h1><p>The security researcher who identified a serious flaw in Apple's Gatekeeper reports that the vulnerability remains despite two security patches applied by the company. Each, he says, only blocks the specific apps he used to demonstrate the method.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1422d5e6da6df51ba9a21862f7b56cef8c1cb385.png"></article>]]></description>
+            <link>http://9to5mac.com/2016/01/15/gatekeeper-vulnerability-remains/</link>
+            <guid isPermaLink="false">af00ab0e-9840-4c02-8c43-acba864cdee9</guid>
             <pubDate>Fri, 15 Jan 2016 15:14:10 GMT</pubDate>
         </item>
         <item>

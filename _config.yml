@@ -1,20 +1,5 @@
-name: Sitecore Collection
-favicon: null
-layout_spectrum: 0.92376
-typography_spectrum: 0.62837
-title: And other stuff to check out how the Grid is progressing...
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-68662001-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -22,8 +7,13 @@ color:
     - '#888068'
     - '#B04838'
     - '#F8A070'
-  brandStrength: 0.8125
+  brandStrength: 1
   lightness: 0.6875
-  saturation: 0.375
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.630756
+  saturation: 0.622532
+cta: {}
+layout_spectrum: 0.679276
+name: Sitecore Collection
+opengraph: {}
 purpose: []
+typography_spectrum: 0.62837

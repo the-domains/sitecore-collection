@@ -2,18 +2,18 @@ analytics:
   google: UA-68662001-1
 color:
   brandColors:
-    - '#000000'
-    - '#281000'
-    - '#888068'
-    - '#B04838'
-    - '#F8A070'
-  brandStrength: 1
-  lightness: 0.6875
-  rhythmicContrast: 0.630756
-  saturation: 0.622532
+    - '#FDFFFE'
+    - '#84946D'
+    - '#595651'
+    - '#3A3633'
+    - '#CCAB98'
+  brandStrength: 0.884046
+  lightness: 0.090461
+  rhythmicContrast: 0.895559
+  saturation: 0.912007
 cta: {}
-layout_spectrum: 0.679276
-name: Sitecore Collection
+layout_spectrum: 0.794408
+name: 'Sitecore Collection '
 opengraph: {}
 purpose: []
-typography_spectrum: 0.62837
+typography_spectrum: 0.063322

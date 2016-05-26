@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[And other stuff to check out how the Grid is progressing...]]></title>
-        <description><![CDATA[And other stuff to check out how the Grid is progressing...]]></description>
+        <title><![CDATA[Sitecore Collection ]]></title>
+        <description><![CDATA[Sitecore Collection ]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 15:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 16:23:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[6 Content Management Resolutions for 2016]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.linkedin.com/pulse/6-content-management-resolutions-2016-chris-brady?trk=prof-post</link>
             <guid isPermaLink="false">e776f589-86d2-4701-a156-bd8000ef1033</guid>
             <pubDate>Fri, 15 Jan 2016 15:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VirnetX asks court to ban FaceTime and iMessage, add $190 million to patent payout]]></title>
+            <description><![CDATA[<article><h1>VirnetX asks court to ban FaceTime and iMessage, add $190 million to patent payout</h1><p>Intensifying its patent infringement case against Apple, VirnetX has asked a Texas court to order an injunction against FaceTime, iMessage, and a VPN feature, while simultaneously asking for greater damage payments on top of $625.6 million awarded earlier this year. Apple could potentially owe an extra $190 million, Law360 said on Thursday.</p><img src="http://photos.appleinsidercdn.com/gallery/17019-14165-facetime-ios9-xl.jpg"></article>]]></description>
+            <link>http://iphone.appleinsider.com/articles/16/05/26/virnetx-asks-court-to-ban-facetime-and-imessage-add-190-million-to-patent-payout</link>
+            <guid isPermaLink="false">afff5cad-47ce-4208-87c7-154570f90ae7</guid>
+            <pubDate>Thu, 26 May 2016 16:23:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PSA: Apple hasn't fixed the Gatekeeper vulnerability, only blocked specific apps using it]]></title>

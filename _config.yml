@@ -1,19 +1,28 @@
+name: 'Sitecore Collection '
+favicon: null
+layout_spectrum: 0.794408
+typography_spectrum: 0.063322
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-68662001-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#FDFFFE'
-    - '#84946D'
-    - '#595651'
-    - '#3A3633'
-    - '#CCAB98'
-  brandStrength: 0.884046
-  lightness: 0.090461
-  rhythmicContrast: 0.895559
-  saturation: 0.912007
-cta: {}
-layout_spectrum: 0.794408
-name: 'Sitecore Collection '
-opengraph: {}
+    - '#ffffff'
+    - '#fac443'
+    - '#e84646'
+    - '#43c35e'
+    - '#000000'
+  brandStrength: 0.375
+  lightness: 0.6875
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
-typography_spectrum: 0.063322

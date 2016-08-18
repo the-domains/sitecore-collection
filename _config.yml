@@ -29,5 +29,6 @@ navigation:
     url: 'http://www.velir.com'
     type: external
 favicon: null
+title: 'This is my headline. There are many like it, but this one is mine.'
 description: This is a sample tagline. I suppose it could even be interesting.
 purpose: []

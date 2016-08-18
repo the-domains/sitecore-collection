@@ -1,19 +1,4 @@
-name: 'Sitecore Collection '
-favicon: null
-layout_spectrum: 0.794408
 typography_spectrum: 0.063322
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-68662001-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,23 @@ color:
   lightness: 0.6875
   saturation: 0.3125
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.794408
+analytics:
+  google: UA-68662001-1
+  facebook: null
+  twitter: null
+name: 'Sitecore Collection '
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Sample link to Velir
+    url: 'http://www.velir.com'
+    type: external
+favicon: null
 purpose: []

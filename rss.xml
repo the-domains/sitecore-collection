@@ -4,7 +4,7 @@
         <description><![CDATA[Sitecore Collection ]]></description>
         <link>https://thegrid.ai/sitecore-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 00:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 00:41:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sitecore-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Marine Corps ousts Parris Island recruit training commander after death of recruit]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.linkedin.com/pulse/6-content-management-resolutions-2016-chris-brady?trk=prof-post</link>
             <guid isPermaLink="false">e776f589-86d2-4701-a156-bd8000ef1033</guid>
             <pubDate>Fri, 15 Jan 2016 15:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The big bust in the oil fields]]></title>
+            <description><![CDATA[<article><h1>The big bust in the oil fields</h1><p>TILDEN, Tex. - He'd borrowed from banks and investors and retirement funds, all in a frenzied mission to drill for oil and gas, and by the time Terry Swift realized he'd gone too far, this was his debt: $1.349 billion.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/032183d163c52848199e6dc99fb0ecc799a7fe3a.jpg"></article>]]></description>
+            <link>https://www.washingtonpost.com/news/wonk/wp/2016/03/25/the-big-bust-in-the-oil-fields/</link>
+            <guid isPermaLink="false">cd1583ef-c367-4bb9-8e7c-1effb37aa992</guid>
+            <pubDate>Thu, 18 Aug 2016 00:40:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New iPhone model with curved glass case, 5.8" AMOLED display due in 2017, insider says]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Samsung debuts Portable SSD T3, a 450MB/sec MacBook-ready USB-C drive with up to 2TB</h1><p>Following up on its popular T1 solid state drive (SSD), Samsung today announced the Portable SSD T3 , a tiny, shock-resistant sequel boasting faster speeds and a wide range of capacities. Unlike the T1, which used a USB 3.0 interface, the T3 uses USB 3.1 Type C connectors, which means it's ready for direct connection to the latest 12″ MacBooks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73b982e121965bdfe8b43f20ce3f26858c380071.jpg"></article>]]></description>
             <link>http://9to5mac.com/2016/01/04/samsung-debuts-portable-ssd-t3-a-450mbsec-macbook-ready-usb-c-drive-with-up-to-2tb/</link>
             <guid isPermaLink="false">29493975-fcce-470c-b928-26ef1c06e951</guid>
-            <pubDate>Fri, 15 Jan 2016 15:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Your Gmail account is not a spy tool for Google]]></title>
-            <description><![CDATA[<article><h1>Your Gmail account is not a spy tool for Google</h1><p>A great question showed up in our forums recently about the safety of using your name in your Gmail account, and using your real Gmail account when logging in to things. Here's our answer and explanation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1328c487c68043e113de424b567a201cbb66af03.jpg"></article>]]></description>
-            <link>http://www.androidcentral.com/your-gmail-account-not-spy-tool-google?utm_medium=slider&amp;utm_campaign=navigation&amp;utm_source=ac</link>
-            <guid isPermaLink="false">ac1860c4-e689-42a2-b4c1-a7002011bfb2</guid>
             <pubDate>Fri, 15 Jan 2016 15:14:10 GMT</pubDate>
         </item>
     </channel>
